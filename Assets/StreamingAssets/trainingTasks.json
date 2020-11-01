@@ -1,0 +1,2927 @@
+[
+  {
+    "taskObjects": [
+      {
+        "prefabName": "Middle Ball Target",
+        "position": {
+          "x": 0.292562485,
+          "y": 0.137126923,
+          "z": 0.5055866
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": true
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.104789123,
+          "y": 0.137993559,
+          "z": 0.5744488
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.446637481,
+          "y": 0.13240999,
+          "z": 0.37814942
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.35864237,
+          "y": -0.0496859252,
+          "z": 0.4784573
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.264809042,
+          "y": 0.3210952,
+          "z": 0.432190329
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.008911759,
+          "y": -0.300005436,
+          "z": 0.519536
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.107872367,
+          "y": 0.09240985,
+          "z": 0.582963
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.186611176,
+          "y": -0.10039711,
+          "z": 0.5613222
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.0227445662,
+          "y": -0.107456923,
+          "z": 0.5898485
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.156484842,
+          "y": 0.289239883,
+          "z": 0.5018492
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      }
+    ],
+    "numberOfObjects": 10,
+    "minDensity": 0.1,
+    "id": "1",
+    "taskTypes": 1,
+    "timeLimit": 30.0,
+    "distance": 1,
+    "actualDistance": 0.6,
+    "radius": 0.4
+  },
+  {
+    "taskObjects": [
+      {
+        "prefabName": "Middle Ball Target",
+        "position": {
+          "x": 0.116582274,
+          "y": -0.0297282934,
+          "z": 0.587814331
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": true
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.04824576,
+          "y": 0.0834642,
+          "z": 0.592205167
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.0535327978,
+          "y": -0.134750351,
+          "z": 0.5822177
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.202355757,
+          "y": -0.200267389,
+          "z": 0.5281534
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.1935882,
+          "y": 0.150425166,
+          "z": 0.5476283
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.227367878,
+          "y": -0.229730368,
+          "z": 0.5054903
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.247901917,
+          "y": 0.05010909,
+          "z": 0.544102669
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.0171439946,
+          "y": -0.316205025,
+          "z": 0.509641647
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.150774479,
+          "y": 0.257981777,
+          "z": 0.520300865
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.04103911,
+          "y": 0.325716019,
+          "z": 0.5022049
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      }
+    ],
+    "numberOfObjects": 10,
+    "minDensity": 0.1,
+    "id": "2",
+    "taskTypes": 1,
+    "timeLimit": 30.0,
+    "distance": 1,
+    "actualDistance": 0.6,
+    "radius": 0.4
+  },
+  {
+    "taskObjects": [
+      {
+        "prefabName": "Middle Ball Target",
+        "position": {
+          "x": -0.191905975,
+          "y": 0.09125435,
+          "z": 0.5611162
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": true
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.125423491,
+          "y": -0.09654818,
+          "z": 0.57875216
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.190458253,
+          "y": 0.2800958,
+          "z": 0.4952562
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.363163084,
+          "y": 0.031921804,
+          "z": 0.476550341
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.0190215465,
+          "y": 0.191555262,
+          "z": 0.568288147
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.124678373,
+          "y": -0.286594868,
+          "z": 0.512155533
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.132431746,
+          "y": 0.3033166,
+          "z": 0.5004673
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.289107323,
+          "y": 0.13283658,
+          "z": 0.5086956
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.1792376,
+          "y": -0.0329042077,
+          "z": 0.5716629
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.199335337,
+          "y": -0.227156639,
+          "z": 0.5183363
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      }
+    ],
+    "numberOfObjects": 10,
+    "minDensity": 0.1,
+    "id": "3",
+    "taskTypes": 1,
+    "timeLimit": 30.0,
+    "distance": 1,
+    "actualDistance": 0.6,
+    "radius": 0.4
+  },
+  {
+    "taskObjects": [
+      {
+        "prefabName": "Middle Ball Target",
+        "position": {
+          "x": 0.319440722,
+          "y": -0.1912576,
+          "z": 2.97680855
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": true
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.517386138,
+          "y": -0.183228388,
+          "z": 2.94936442
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.1333744,
+          "y": -0.264099628,
+          "z": 2.9853766
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.215600669,
+          "y": -0.0210186429,
+          "z": 2.99217081
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.421563864,
+          "y": -0.360829234,
+          "z": 2.94823623
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.0623675734,
+          "y": -0.3820039,
+          "z": 2.974926
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.0550178736,
+          "y": 0.3401562,
+          "z": 2.98014545
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.3262992,
+          "y": -0.125503868,
+          "z": 2.97956276
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.165197015,
+          "y": 0.196633816,
+          "z": 2.988984
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.09570271,
+          "y": -0.07179749,
+          "z": 2.997614
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      }
+    ],
+    "numberOfObjects": 10,
+    "minDensity": 0.1,
+    "id": "4",
+    "taskTypes": 1,
+    "timeLimit": 30.0,
+    "distance": 2,
+    "actualDistance": 3.0,
+    "radius": 0.4
+  },
+  {
+    "taskObjects": [
+      {
+        "prefabName": "Middle Ball Target",
+        "position": {
+          "x": 0.274460435,
+          "y": 0.0475514829,
+          "z": 2.98704052
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": true
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.325198531,
+          "y": 0.240469769,
+          "z": 2.972612
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.469297945,
+          "y": 0.00930382,
+          "z": 2.96305132
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.310875446,
+          "y": -0.148983926,
+          "z": 2.98012757
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.108683042,
+          "y": -0.0638557151,
+          "z": 2.99735069
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.1925816,
+          "y": -0.0446388721,
+          "z": 2.99348354
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.356765628,
+          "y": 0.164314151,
+          "z": 2.97417259
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.168300986,
+          "y": 0.256645322,
+          "z": 2.98425961
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.04981105,
+          "y": 0.233052254,
+          "z": 2.99051666
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.104676783,
+          "y": -0.3778795,
+          "z": 2.97426414
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      }
+    ],
+    "numberOfObjects": 10,
+    "minDensity": 0.1,
+    "id": "5",
+    "taskTypes": 1,
+    "timeLimit": 30.0,
+    "distance": 2,
+    "actualDistance": 3.0,
+    "radius": 0.4
+  },
+  {
+    "taskObjects": [
+      {
+        "prefabName": "Middle Ball Target",
+        "position": {
+          "x": -0.254813433,
+          "y": -0.2999466,
+          "z": 2.97407436
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": true
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.4196756,
+          "y": -0.4086145,
+          "z": 2.9422648
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.2225963,
+          "y": -0.103197992,
+          "z": 2.9899528
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.141149431,
+          "y": -0.4639515,
+          "z": 2.96054769
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.06679266,
+          "y": -0.233688623,
+          "z": 2.99014115
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.136574924,
+          "y": 0.143305182,
+          "z": 2.99345875
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.385080457,
+          "y": 0.0180178732,
+          "z": 2.975131
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.118137062,
+          "y": 0.3178475,
+          "z": 2.980772
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.06314659,
+          "y": 0.0706341,
+          "z": 2.99850368
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.193960547,
+          "y": -0.09747064,
+          "z": 2.99213886
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      }
+    ],
+    "numberOfObjects": 10,
+    "minDensity": 0.1,
+    "id": "6",
+    "taskTypes": 1,
+    "timeLimit": 30.0,
+    "distance": 2,
+    "actualDistance": 3.0,
+    "radius": 0.4
+  },
+  {
+    "taskObjects": [
+      {
+        "prefabName": "Middle Ball Target",
+        "position": {
+          "x": -0.00786944851,
+          "y": -0.0161725581,
+          "z": 5.99997425
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": true
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.186359629,
+          "y": -0.06376243,
+          "z": 5.99676752
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.119641386,
+          "y": 0.137884036,
+          "z": 5.99722338
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.1542746,
+          "y": 0.120046288,
+          "z": 5.996816
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.15029493,
+          "y": -0.156528533,
+          "z": 5.99607563
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.05253984,
+          "y": -0.3676694,
+          "z": 5.988495
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.364190817,
+          "y": 0.141753659,
+          "z": 5.987259
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.3873303,
+          "y": 0.0338806063,
+          "z": 5.98738766
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.3551365,
+          "y": -0.176844656,
+          "z": 5.98687
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.0295956321,
+          "y": 0.377538264,
+          "z": 5.988036
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      }
+    ],
+    "numberOfObjects": 10,
+    "minDensity": 0.1,
+    "id": "7",
+    "taskTypes": 1,
+    "timeLimit": 30.0,
+    "distance": 3,
+    "actualDistance": 6.0,
+    "radius": 0.4
+  },
+  {
+    "taskObjects": [
+      {
+        "prefabName": "Middle Ball Target",
+        "position": {
+          "x": 0.186292171,
+          "y": -0.06292083,
+          "z": 5.99677849
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": true
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.237335071,
+          "y": 0.130434468,
+          "z": 5.99388647
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.0188330729,
+          "y": 0.04638782,
+          "z": 5.99979258
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.383580625,
+          "y": -0.03139522,
+          "z": 5.987645
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.2072538,
+          "y": -0.261726648,
+          "z": 5.99070644
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.223377734,
+          "y": 0.2853346,
+          "z": 5.989047
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.207466543,
+          "y": -0.08037035,
+          "z": 5.9958725
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.08489664,
+          "y": 0.329434335,
+          "z": 5.990348
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.378308654,
+          "y": 0.0850744843,
+          "z": 5.98745728
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.1912938,
+          "y": -0.301423669,
+          "z": 5.98936939
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      }
+    ],
+    "numberOfObjects": 10,
+    "minDensity": 0.1,
+    "id": "8",
+    "taskTypes": 1,
+    "timeLimit": 30.0,
+    "distance": 3,
+    "actualDistance": 6.0,
+    "radius": 0.4
+  },
+  {
+    "taskObjects": [
+      {
+        "prefabName": "Middle Ball Target",
+        "position": {
+          "x": -0.261301547,
+          "y": 0.23649472,
+          "z": 5.989641
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": true
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.432785571,
+          "y": 0.3383425,
+          "z": 5.97479963
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.398979276,
+          "y": 0.09147145,
+          "z": 5.986022
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.07814406,
+          "y": 0.3168138,
+          "z": 5.99112129
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.116847657,
+          "y": 0.0984284952,
+          "z": 5.99805546
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.148542464,
+          "y": 0.0674068555,
+          "z": 5.99778271
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": -0.249702811,
+          "y": -0.262630671,
+          "z": 5.989046
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.3693518,
+          "y": 0.0763332844,
+          "z": 5.98813438
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.102328748,
+          "y": -0.350468278,
+          "z": 5.988881
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      },
+      {
+        "prefabName": "Middle Ball",
+        "position": {
+          "x": 0.008826741,
+          "y": -0.0941013843,
+          "z": 5.999257
+        },
+        "rotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "scale": {
+          "x": 0.1,
+          "y": 0.1,
+          "z": 0.1
+        },
+        "isTargetObject": false
+      }
+    ],
+    "numberOfObjects": 10,
+    "minDensity": 0.1,
+    "id": "9",
+    "taskTypes": 1,
+    "timeLimit": 30.0,
+    "distance": 3,
+    "actualDistance": 6.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.215139389,
+        "y": 0.0360341668,
+        "z": 0.558956146
+      },
+      "rotation": {
+        "w": 0.6646376,
+        "x": -0.4347925,
+        "y": 0.0105927587,
+        "z": 0.6075361,
+        "eulerAngles": {
+          "x": 323.7841,
+          "y": 320.4044,
+          "z": 98.28731
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.325899363,
+        "y": -0.35348022,
+        "z": 0.558956146
+      },
+      "rotation": {
+        "w": -0.7414113,
+        "x": -0.345872343,
+        "y": 0.364459574,
+        "z": -0.444804162,
+        "eulerAngles": {
+          "x": 56.8344727,
+          "y": 334.821838,
+          "z": 48.14235
+        }
+      },
+      "scale": {
+        "x": 0.3072496,
+        "y": 0.3072496,
+        "z": 0.3072496
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "10",
+    "taskTypes": 14,
+    "timeLimit": 30.0,
+    "distance": 1,
+    "actualDistance": 0.6,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.273328781,
+        "y": -0.130484819,
+        "z": 0.5179434
+      },
+      "rotation": {
+        "w": -0.350763679,
+        "x": -0.5794976,
+        "y": -0.6275182,
+        "z": -0.38388595,
+        "eulerAngles": {
+          "x": 355.684,
+          "y": 117.4193,
+          "z": 88.06739
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.3024209,
+        "y": 0.205605626,
+        "z": 0.5179434
+      },
+      "rotation": {
+        "w": 0.427719057,
+        "x": -0.664227843,
+        "y": -0.5710109,
+        "z": 0.223169029,
+        "eulerAngles": {
+          "x": 341.739258,
+          "y": 235.746948,
+          "z": 88.91428
+        }
+      },
+      "scale": {
+        "x": 0.132368684,
+        "y": 0.132368684,
+        "z": 0.132368684
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "11",
+    "taskTypes": 14,
+    "timeLimit": 30.0,
+    "distance": 1,
+    "actualDistance": 0.6,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.265990257,
+        "y": 0.0301156044,
+        "z": 0.5369749
+      },
+      "rotation": {
+        "w": -0.215372413,
+        "x": -0.6114899,
+        "y": -0.624854267,
+        "z": -0.435031176,
+        "eulerAngles": {
+          "x": 343.7239,
+          "y": 123.421913,
+          "z": 97.56315
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.161184639,
+        "y": -0.481710553,
+        "z": 0.5369749
+      },
+      "rotation": {
+        "w": 0.5898667,
+        "x": -0.738177,
+        "y": -0.268933147,
+        "z": -0.186619788,
+        "eulerAngles": {
+          "x": 283.777344,
+          "y": 190.097336,
+          "z": 132.0361
+        }
+      },
+      "scale": {
+        "x": 0.11630746,
+        "y": 0.11630746,
+        "z": 0.11630746
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "12",
+    "taskTypes": 14,
+    "timeLimit": 30.0,
+    "distance": 1,
+    "actualDistance": 0.6,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.0259470344,
+        "y": -0.3359362,
+        "z": 2.981019
+      },
+      "rotation": {
+        "w": -0.676858068,
+        "x": -0.0129893087,
+        "y": -0.07097614,
+        "z": -0.7325686,
+        "eulerAngles": {
+          "x": 355.043121,
+          "y": 6.63504934,
+          "z": 94.2396
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.413193762,
+        "y": 0.165660977,
+        "z": 2.981019
+      },
+      "rotation": {
+        "w": 0.3451101,
+        "x": 0.8100303,
+        "y": -0.112201236,
+        "z": 0.460609227,
+        "eulerAngles": {
+          "x": 41.4878464,
+          "y": 116.7765,
+          "z": 169.528229
+        }
+      },
+      "scale": {
+        "x": 0.116255932,
+        "y": 0.116255932,
+        "z": 0.116255932
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "13",
+    "taskTypes": 14,
+    "timeLimit": 30.0,
+    "distance": 2,
+    "actualDistance": 3.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.0944545,
+        "y": -0.00194888283,
+        "z": 2.99851418
+      },
+      "rotation": {
+        "w": -0.0572862476,
+        "x": -0.2810754,
+        "y": 0.8204172,
+        "z": 0.4946014,
+        "eulerAngles": {
+          "x": 308.7984,
+          "y": 216.4241,
+          "z": 304.259827
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.418715268,
+        "y": 0.423611045,
+        "z": 2.99851418
+      },
+      "rotation": {
+        "w": 0.357624739,
+        "x": -0.101076588,
+        "y": -0.147463,
+        "z": -0.916592956,
+        "eulerAngles": {
+          "x": 339.9633,
+          "y": 4.873829,
+          "z": 221.766724
+        }
+      },
+      "scale": {
+        "x": 0.3273317,
+        "y": 0.3273317,
+        "z": 0.3273317
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "14",
+    "taskTypes": 14,
+    "timeLimit": 30.0,
+    "distance": 2,
+    "actualDistance": 3.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.2524684,
+        "y": -0.00259767845,
+        "z": 2.989356
+      },
+      "rotation": {
+        "w": -0.604654849,
+        "x": 0.341113776,
+        "y": -0.490437,
+        "z": 0.5267878,
+        "eulerAngles": {
+          "x": 5.981093,
+          "y": 73.2741547,
+          "z": 282.323669
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.26082474,
+        "y": 0.4228133,
+        "z": 2.989356
+      },
+      "rotation": {
+        "w": 0.246972412,
+        "x": -0.159410089,
+        "y": 0.93782413,
+        "z": 0.184604809,
+        "eulerAngles": {
+          "x": 334.849762,
+          "y": 153.465973,
+          "z": 346.7278
+        }
+      },
+      "scale": {
+        "x": 0.117133394,
+        "y": 0.117133394,
+        "z": 0.117133394
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "15",
+    "taskTypes": 14,
+    "timeLimit": 30.0,
+    "distance": 2,
+    "actualDistance": 3.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.166599989,
+        "y": -0.236801237,
+        "z": 5.99301147
+      },
+      "rotation": {
+        "w": 0.7669018,
+        "x": 0.4250117,
+        "y": -0.479425579,
+        "z": -0.03711845,
+        "eulerAngles": {
+          "x": 38.04596,
+          "y": 283.140381,
+          "z": 323.859161
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.189139128,
+        "y": 0.3270198,
+        "z": 5.99301147
+      },
+      "rotation": {
+        "w": 0.235212713,
+        "x": 0.829457164,
+        "y": -0.04575009,
+        "z": -0.504561961,
+        "eulerAngles": {
+          "x": 20.12261,
+          "y": 246.115143,
+          "z": 199.488571
+        }
+      },
+      "scale": {
+        "x": 0.124337696,
+        "y": 0.124337696,
+        "z": 0.124337696
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "16",
+    "taskTypes": 14,
+    "timeLimit": 30.0,
+    "distance": 3,
+    "actualDistance": 6.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.103293493,
+        "y": 0.261237979,
+        "z": 5.9934206
+      },
+      "rotation": {
+        "w": 0.645745158,
+        "x": 0.3483032,
+        "y": -0.6041091,
+        "z": 0.311047018,
+        "eulerAngles": {
+          "x": 55.6537247,
+          "y": 272.7912,
+          "z": 358.058746
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.372825265,
+        "y": -0.205404639,
+        "z": 5.9934206
+      },
+      "rotation": {
+        "w": -0.8599498,
+        "x": -0.4931317,
+        "y": -0.09020412,
+        "z": 0.09576366,
+        "eulerAngles": {
+          "x": 59.92996,
+          "y": 6.95739841,
+          "z": 351.305969
+        }
+      },
+      "scale": {
+        "x": 0.3050506,
+        "y": 0.3050506,
+        "z": 0.3050506
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "17",
+    "taskTypes": 14,
+    "timeLimit": 30.0,
+    "distance": 3,
+    "actualDistance": 6.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.148408636,
+        "y": 0.2214373,
+        "z": 5.994076
+      },
+      "rotation": {
+        "w": 0.7474767,
+        "x": -0.05392213,
+        "y": 0.642471969,
+        "z": -0.160002679,
+        "eulerAngles": {
+          "x": 7.1797967,
+          "y": 80.2135,
+          "z": 341.885223
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.4163053,
+        "y": -0.1328826,
+        "z": 5.994076
+      },
+      "rotation": {
+        "w": 0.163318023,
+        "x": 0.578515,
+        "y": 0.617853463,
+        "z": 0.506857753,
+        "eulerAngles": {
+          "x": 334.0642,
+          "y": 118.771729,
+          "z": 101.752396
+        }
+      },
+      "scale": {
+        "x": 0.3142513,
+        "y": 0.3142513,
+        "z": 0.3142513
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "18",
+    "taskTypes": 14,
+    "timeLimit": 30.0,
+    "distance": 3,
+    "actualDistance": 6.0,
+    "radius": 0.4
+  }
+]

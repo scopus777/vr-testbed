@@ -1,0 +1,5672 @@
+[
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.3295064,
+        "y": -0.002545409,
+        "z": 0.501423836
+      },
+      "rotation": {
+        "w": -0.5838575,
+        "x": -0.0600621849,
+        "y": 0.5770794,
+        "z": 0.567875266,
+        "eulerAngles": {
+          "x": 324.177032,
+          "y": 293.764282,
+          "z": 295.40213
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.003826946,
+        "y": -0.00254535675,
+        "z": 0.501423836
+      },
+      "rotation": {
+        "w": -0.5838575,
+        "x": -0.0600621849,
+        "y": 0.5770794,
+        "z": 0.567875266,
+        "eulerAngles": {
+          "x": 324.177032,
+          "y": 293.764282,
+          "z": 295.40213
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 1,
+    "manipulationAmount": 1,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "1",
+    "taskTypes": 2,
+    "timeLimit": 30.0,
+    "distance": 1,
+    "actualDistance": 0.6,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.107389569,
+        "y": -0.116668224,
+        "z": 0.5786543
+      },
+      "rotation": {
+        "w": 0.7021039,
+        "x": -0.611724734,
+        "y": 0.185208827,
+        "z": 0.3139118,
+        "eulerAngles": {
+          "x": 282.76947,
+          "y": 325.8794,
+          "z": 75.72397
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.225943774,
+        "y": -0.116668224,
+        "z": 0.5786543
+      },
+      "rotation": {
+        "w": 0.7021039,
+        "x": -0.611724734,
+        "y": 0.185208827,
+        "z": 0.3139118,
+        "eulerAngles": {
+          "x": 282.76947,
+          "y": 325.8794,
+          "z": 75.72397
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 1,
+    "manipulationAmount": 1,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "2",
+    "taskTypes": 2,
+    "timeLimit": 30.0,
+    "distance": 1,
+    "actualDistance": 0.6,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.154503822,
+        "y": 0.240906715,
+        "z": 0.5273514
+      },
+      "rotation": {
+        "w": -0.708536267,
+        "x": -0.22536242,
+        "y": 0.374669254,
+        "z": -0.5539053,
+        "eulerAngles": {
+          "x": 47.2580147,
+          "y": 335.516418,
+          "z": 65.18883
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.318565071,
+        "y": -0.2288276,
+        "z": 0.5273514
+      },
+      "rotation": {
+        "w": -0.708536267,
+        "x": -0.22536242,
+        "y": 0.374669254,
+        "z": -0.5539053,
+        "eulerAngles": {
+          "x": 47.2580147,
+          "y": 335.516418,
+          "z": 65.18883
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "3",
+    "taskTypes": 2,
+    "timeLimit": 30.0,
+    "distance": 1,
+    "actualDistance": 0.6,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.2226994,
+        "y": -0.2136147,
+        "z": 0.514575958
+      },
+      "rotation": {
+        "w": 0.9640091,
+        "x": 0.234709412,
+        "y": 0.00717545673,
+        "z": 0.124685436,
+        "eulerAngles": {
+          "x": 26.7908287,
+          "y": 4.649835,
+          "z": 15.8474312
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.361670434,
+        "y": 0.107253432,
+        "z": 0.514575958
+      },
+      "rotation": {
+        "w": 0.9640091,
+        "x": 0.234709412,
+        "y": 0.00717545673,
+        "z": 0.124685436,
+        "eulerAngles": {
+          "x": 26.7908287,
+          "y": 4.649835,
+          "z": 15.8474312
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "4",
+    "taskTypes": 2,
+    "timeLimit": 30.0,
+    "distance": 1,
+    "actualDistance": 0.6,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.274696827,
+        "y": 0.0346214771,
+        "z": 0.5323
+      },
+      "rotation": {
+        "w": 0.498640954,
+        "x": -0.6383684,
+        "y": -0.2635744,
+        "z": 0.523804843,
+        "eulerAngles": {
+          "x": 338.868469,
+          "y": 272.828522,
+          "z": 112.954292
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.221013218,
+        "y": -0.8287687,
+        "z": 0.6262622
+      },
+      "rotation": {
+        "w": 0.498640954,
+        "x": -0.6383684,
+        "y": -0.2635744,
+        "z": 0.523804843,
+        "eulerAngles": {
+          "x": 338.868469,
+          "y": 272.828522,
+          "z": 112.954292
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 3,
+    "manipulationAmount": 3,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "5",
+    "taskTypes": 2,
+    "timeLimit": 30.0,
+    "distance": 1,
+    "actualDistance": 0.6,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.245517731,
+        "y": 0.0197736323,
+        "z": 0.547110558
+      },
+      "rotation": {
+        "w": 0.267659754,
+        "x": -0.458288044,
+        "y": -0.7847964,
+        "z": -0.3200389,
+        "eulerAngles": {
+          "x": 311.611816,
+          "y": 191.005661,
+          "z": 55.6093178
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.2347509,
+        "y": -0.8520603,
+        "z": 0.643274546
+      },
+      "rotation": {
+        "w": 0.267659754,
+        "x": -0.458288044,
+        "y": -0.7847964,
+        "z": -0.3200389,
+        "eulerAngles": {
+          "x": 311.611816,
+          "y": 191.005661,
+          "z": 55.6093178
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 3,
+    "manipulationAmount": 3,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "6",
+    "taskTypes": 2,
+    "timeLimit": 30.0,
+    "distance": 1,
+    "actualDistance": 0.6,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.09810582,
+        "y": -0.290103018,
+        "z": 2.984332
+      },
+      "rotation": {
+        "w": -0.417255431,
+        "x": 0.054280147,
+        "y": -0.8479103,
+        "z": -0.322489977,
+        "eulerAngles": {
+          "x": 323.687958,
+          "y": 123.418457,
+          "z": 12.6940985
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.235227525,
+        "y": -0.290103078,
+        "z": 2.984332
+      },
+      "rotation": {
+        "w": -0.417255431,
+        "x": 0.054280147,
+        "y": -0.8479103,
+        "z": -0.322489977,
+        "eulerAngles": {
+          "x": 323.687958,
+          "y": 123.418457,
+          "z": 12.6940985
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 1,
+    "manipulationAmount": 1,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "7",
+    "taskTypes": 2,
+    "timeLimit": 30.0,
+    "distance": 2,
+    "actualDistance": 3.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.110051334,
+        "y": -0.246512771,
+        "z": 2.98782921
+      },
+      "rotation": {
+        "w": -0.6490636,
+        "x": -0.1267426,
+        "y": 0.355988681,
+        "z": -0.6602461,
+        "eulerAngles": {
+          "x": 39.3909378,
+          "y": 337.5798,
+          "z": 82.86268
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.223282009,
+        "y": -0.246512771,
+        "z": 2.98782921
+      },
+      "rotation": {
+        "w": -0.6490636,
+        "x": -0.1267426,
+        "y": 0.355988681,
+        "z": -0.6602461,
+        "eulerAngles": {
+          "x": 39.3909378,
+          "y": 337.5798,
+          "z": 82.86268
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 1,
+    "manipulationAmount": 1,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "8",
+    "taskTypes": 2,
+    "timeLimit": 30.0,
+    "distance": 2,
+    "actualDistance": 3.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.10955587,
+        "y": -0.184666753,
+        "z": 2.992303
+      },
+      "rotation": {
+        "w": -0.3226323,
+        "x": -0.379310519,
+        "y": 0.166037679,
+        "z": 0.8511542,
+        "eulerAngles": {
+          "x": 357.828461,
+          "y": 311.115753,
+          "z": 222.505783
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.39135167,
+        "y": 0.2552606,
+        "z": 2.992303
+      },
+      "rotation": {
+        "w": -0.3226323,
+        "x": -0.379310519,
+        "y": 0.166037679,
+        "z": 0.8511542,
+        "eulerAngles": {
+          "x": 357.828461,
+          "y": 311.115753,
+          "z": 222.505783
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "9",
+    "taskTypes": 2,
+    "timeLimit": 30.0,
+    "distance": 2,
+    "actualDistance": 3.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.237660646,
+        "y": -0.0449440628,
+        "z": 2.99023438
+      },
+      "rotation": {
+        "w": 0.16047363,
+        "x": 0.467962921,
+        "y": -0.8467952,
+        "z": 0.195439965,
+        "eulerAngles": {
+          "x": 28.7629337,
+          "y": 185.817841,
+          "z": 303.6404
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.2563227,
+        "y": 0.4027444,
+        "z": 2.99023438
+      },
+      "rotation": {
+        "w": 0.16047363,
+        "x": 0.467962921,
+        "y": -0.8467952,
+        "z": 0.195439965,
+        "eulerAngles": {
+          "x": 28.7629337,
+          "y": 185.817841,
+          "z": 303.6404
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "10",
+    "taskTypes": 2,
+    "timeLimit": 30.0,
+    "distance": 2,
+    "actualDistance": 3.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.09704426,
+        "y": -0.248060346,
+        "z": 2.98814869
+      },
+      "rotation": {
+        "w": -0.662411034,
+        "x": -0.0357827544,
+        "y": -0.4674612,
+        "z": -0.5843041,
+        "eulerAngles": {
+          "x": 330.074524,
+          "y": 49.71363,
+          "z": 68.7144852
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.658245444,
+        "y": 0.375193477,
+        "z": 2.78543663
+      },
+      "rotation": {
+        "w": -0.662411034,
+        "x": -0.0357827544,
+        "y": -0.4674612,
+        "z": -0.5843041,
+        "eulerAngles": {
+          "x": 330.074524,
+          "y": 49.71363,
+          "z": 68.7144852
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 3,
+    "manipulationAmount": 3,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "11",
+    "taskTypes": 2,
+    "timeLimit": 30.0,
+    "distance": 2,
+    "actualDistance": 3.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.27647984,
+        "y": -0.0142287016,
+        "z": 2.987196
+      },
+      "rotation": {
+        "w": -0.104705319,
+        "x": 0.626543164,
+        "y": 0.59218,
+        "z": -0.495785445,
+        "eulerAngles": {
+          "x": 27.1282444,
+          "y": 236.865967,
+          "z": 108.11496
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.447823763,
+        "y": 0.6628884,
+        "z": 2.85720825
+      },
+      "rotation": {
+        "w": -0.104705319,
+        "x": 0.626543164,
+        "y": 0.59218,
+        "z": -0.495785445,
+        "eulerAngles": {
+          "x": 27.1282444,
+          "y": 236.865967,
+          "z": 108.11496
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 3,
+    "manipulationAmount": 3,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "12",
+    "taskTypes": 2,
+    "timeLimit": 30.0,
+    "distance": 2,
+    "actualDistance": 3.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.3141076,
+        "y": 0.009801412,
+        "z": 5.991764
+      },
+      "rotation": {
+        "w": 0.202792883,
+        "x": 0.796538055,
+        "y": 0.316230863,
+        "z": 0.473708928,
+        "eulerAngles": {
+          "x": 1.34438145,
+          "y": 117.974525,
+          "z": 135.884979
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.0192257464,
+        "y": 0.009801388,
+        "z": 5.991764
+      },
+      "rotation": {
+        "w": 0.202792883,
+        "x": 0.796538055,
+        "y": 0.316230863,
+        "z": 0.473708928,
+        "eulerAngles": {
+          "x": 1.34438145,
+          "y": 117.974525,
+          "z": 135.884979
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 1,
+    "manipulationAmount": 1,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "13",
+    "taskTypes": 2,
+    "timeLimit": 30.0,
+    "distance": 3,
+    "actualDistance": 6.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.130017668,
+        "y": 0.02712962,
+        "z": 5.99852943
+      },
+      "rotation": {
+        "w": 0.5645229,
+        "x": 0.6231047,
+        "y": 0.510467,
+        "z": 0.180216491,
+        "eulerAngles": {
+          "x": 31.3003674,
+          "y": 110.388023,
+          "z": 79.3081
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.203315675,
+        "y": 0.02712965,
+        "z": 5.99852943
+      },
+      "rotation": {
+        "w": 0.5645229,
+        "x": 0.6231047,
+        "y": 0.510467,
+        "z": 0.180216491,
+        "eulerAngles": {
+          "x": 31.3003674,
+          "y": 110.388023,
+          "z": 79.3081
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 1,
+    "manipulationAmount": 1,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "14",
+    "taskTypes": 2,
+    "timeLimit": 30.0,
+    "distance": 3,
+    "actualDistance": 6.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.3161673,
+        "y": 0.2368739,
+        "z": 5.98698044
+      },
+      "rotation": {
+        "w": 0.6655092,
+        "x": -0.52276516,
+        "y": -0.08930062,
+        "z": 0.5252045,
+        "eulerAngles": {
+          "x": 322.986176,
+          "y": 303.222321,
+          "z": 97.0675659
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.04506436,
+        "y": -0.323444,
+        "z": 5.98698044
+      },
+      "rotation": {
+        "w": 0.6655092,
+        "x": -0.52276516,
+        "y": -0.08930062,
+        "z": 0.5252045,
+        "eulerAngles": {
+          "x": 322.986176,
+          "y": 303.222321,
+          "z": 97.0675659
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "15",
+    "taskTypes": 2,
+    "timeLimit": 30.0,
+    "distance": 3,
+    "actualDistance": 6.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.3521632,
+        "y": -0.141846821,
+        "z": 5.987976
+      },
+      "rotation": {
+        "w": 0.8092001,
+        "x": 0.5211612,
+        "y": 0.270096958,
+        "z": 0.02517718,
+        "eulerAngles": {
+          "x": 56.083004,
+          "y": 56.1420059,
+          "z": 35.27928
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.149493456,
+        "y": 0.2972262,
+        "z": 5.987976
+      },
+      "rotation": {
+        "w": 0.8092001,
+        "x": 0.5211612,
+        "y": 0.270096958,
+        "z": 0.02517718,
+        "eulerAngles": {
+          "x": 56.083004,
+          "y": 56.1420059,
+          "z": 35.27928
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "16",
+    "taskTypes": 2,
+    "timeLimit": 30.0,
+    "distance": 3,
+    "actualDistance": 6.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.165681243,
+        "y": 0.166518867,
+        "z": 5.99540043
+      },
+      "rotation": {
+        "w": -0.9149183,
+        "x": -0.216638416,
+        "y": -0.307304025,
+        "z": 0.146821529,
+        "eulerAngles": {
+          "x": 29.1206722,
+          "y": 34.8102455,
+          "z": 351.0763
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.485585034,
+        "y": -0.5660466,
+        "z": 5.79741049
+      },
+      "rotation": {
+        "w": -0.9149183,
+        "x": -0.216638416,
+        "y": -0.307304025,
+        "z": 0.146821529,
+        "eulerAngles": {
+          "x": 29.1206722,
+          "y": 34.8102455,
+          "z": 351.0763
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 3,
+    "manipulationAmount": 3,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "17",
+    "taskTypes": 2,
+    "timeLimit": 30.0,
+    "distance": 3,
+    "actualDistance": 6.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.07435994,
+        "y": 0.345233023,
+        "z": 5.989599
+      },
+      "rotation": {
+        "w": 0.3949772,
+        "x": 0.6743655,
+        "y": -0.615808,
+        "z": -0.100023121,
+        "eulerAngles": {
+          "x": 24.1751842,
+          "y": 222.92955,
+          "z": 274.429138
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.701852,
+        "y": -0.2779851,
+        "z": 5.894237
+      },
+      "rotation": {
+        "w": 0.3949772,
+        "x": 0.6743655,
+        "y": -0.615808,
+        "z": -0.100023121,
+        "eulerAngles": {
+          "x": 24.1751842,
+          "y": 222.92955,
+          "z": 274.429138
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 3,
+    "manipulationAmount": 3,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "18",
+    "taskTypes": 2,
+    "timeLimit": 30.0,
+    "distance": 3,
+    "actualDistance": 6.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.259910583,
+        "y": -0.20607686,
+        "z": 0.499992371
+      },
+      "rotation": {
+        "w": 0.305813342,
+        "x": 0.457549751,
+        "y": 0.6153779,
+        "z": -0.5643016,
+        "eulerAngles": {
+          "x": 76.99929,
+          "y": 218.4895,
+          "z": 104.3028
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.259910583,
+        "y": -0.20607686,
+        "z": 0.499992371
+      },
+      "rotation": {
+        "w": 0.07889859,
+        "x": -0.5446545,
+        "y": -0.8349066,
+        "z": 0.00758906454,
+        "eulerAngles": {
+          "x": 355.798035,
+          "y": 188.070419,
+          "z": 65.94059
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 1,
+    "manipulationAmount": 1,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "19",
+    "taskTypes": 4,
+    "timeLimit": 30.0,
+    "distance": 1,
+    "actualDistance": 0.6,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.2550621,
+        "y": -0.08607626,
+        "z": 0.5362358
+      },
+      "rotation": {
+        "w": 0.0164769,
+        "x": 0.480881572,
+        "y": 0.632458448,
+        "z": -0.607023656,
+        "eulerAngles": {
+          "x": 51.5988846,
+          "y": 245.001343,
+          "z": 108.7289
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.2550621,
+        "y": -0.08607626,
+        "z": 0.5362358
+      },
+      "rotation": {
+        "w": -0.203634828,
+        "x": 0.435949,
+        "y": 0.839107454,
+        "z": -0.253731877,
+        "eulerAngles": {
+          "x": 14.3750362,
+          "y": 215.532654,
+          "z": 59.5350647
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 1,
+    "manipulationAmount": 1,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "20",
+    "taskTypes": 4,
+    "timeLimit": 30.0,
+    "distance": 1,
+    "actualDistance": 0.6,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.05395913,
+        "y": -0.238609314,
+        "z": 0.547876358
+      },
+      "rotation": {
+        "w": 0.615138054,
+        "x": -0.449508846,
+        "y": -0.206305,
+        "z": -0.613991261,
+        "eulerAngles": {
+          "x": 306.2583,
+          "y": 30.2759781,
+          "z": 254.496475
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.05395913,
+        "y": -0.238609314,
+        "z": 0.547876358
+      },
+      "rotation": {
+        "w": 0.6890976,
+        "x": -0.489576519,
+        "y": 0.5132038,
+        "z": -0.148597568,
+        "eulerAngles": {
+          "x": 328.519379,
+          "y": 90.41161,
+          "z": 303.96582
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "21",
+    "taskTypes": 4,
+    "timeLimit": 30.0,
+    "distance": 1,
+    "actualDistance": 0.6,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.225863218,
+        "y": -0.11049211,
+        "z": 0.5447855
+      },
+      "rotation": {
+        "w": 0.3324481,
+        "x": 0.527011,
+        "y": 0.772972465,
+        "z": -0.119378656,
+        "eulerAngles": {
+          "x": 32.34123,
+          "y": 152.652969,
+          "z": 60.5016441
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.225863218,
+        "y": -0.11049211,
+        "z": 0.5447855
+      },
+      "rotation": {
+        "w": 0.5675718,
+        "x": -0.392427921,
+        "y": -0.7231558,
+        "z": 0.0301376134,
+        "eulerAngles": {
+          "x": 336.304626,
+          "y": 247.263672,
+          "z": 41.085743
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "22",
+    "taskTypes": 4,
+    "timeLimit": 30.0,
+    "distance": 1,
+    "actualDistance": 0.6,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.16485095,
+        "y": -0.137213469,
+        "z": 0.560354233
+      },
+      "rotation": {
+        "w": -0.16809909,
+        "x": 0.289766967,
+        "y": -0.518326938,
+        "z": 0.7868386,
+        "eulerAngles": {
+          "x": 45.91102,
+          "y": 64.93661,
+          "z": 234.285126
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.16485095,
+        "y": -0.137213469,
+        "z": 0.560354233
+      },
+      "rotation": {
+        "w": 0.5668971,
+        "x": -0.5781823,
+        "y": 0.5274137,
+        "z": 0.257230878,
+        "eulerAngles": {
+          "x": 292.047363,
+          "y": 126.811958,
+          "z": 302.0284
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 3,
+    "manipulationAmount": 3,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "23",
+    "taskTypes": 4,
+    "timeLimit": 30.0,
+    "distance": 1,
+    "actualDistance": 0.6,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.0343744755,
+        "y": -0.16004777,
+        "z": 0.577230453
+      },
+      "rotation": {
+        "w": 0.376396269,
+        "x": 0.786384,
+        "y": -0.280550271,
+        "z": 0.40151915,
+        "eulerAngles": {
+          "x": 54.8130951,
+          "y": 133.1658,
+          "z": 193.9563
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.0343744755,
+        "y": -0.16004777,
+        "z": 0.577230453
+      },
+      "rotation": {
+        "w": 0.5691966,
+        "x": -0.5489191,
+        "y": 0.116260618,
+        "z": 0.60098803,
+        "eulerAngles": {
+          "x": 310.126068,
+          "y": 305.0748,
+          "z": 120.283905
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 3,
+    "manipulationAmount": 3,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "24",
+    "taskTypes": 4,
+    "timeLimit": 30.0,
+    "distance": 1,
+    "actualDistance": 0.6,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.235507786,
+        "y": -0.255843461,
+        "z": 2.97978115
+      },
+      "rotation": {
+        "w": -0.5282281,
+        "x": 0.05740975,
+        "y": 0.5700778,
+        "z": -0.6266502,
+        "eulerAngles": {
+          "x": 40.83083,
+          "y": 296.993378,
+          "z": 74.04189
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.235507786,
+        "y": -0.25584352,
+        "z": 2.97978115
+      },
+      "rotation": {
+        "w": -0.4983457,
+        "x": -0.184316352,
+        "y": 0.789792061,
+        "z": -0.3064434,
+        "eulerAngles": {
+          "x": 41.89439,
+          "y": 244.9235,
+          "z": 1.09970546
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 1,
+    "manipulationAmount": 1,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "25",
+    "taskTypes": 4,
+    "timeLimit": 30.0,
+    "distance": 2,
+    "actualDistance": 3.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.174910426,
+        "y": -0.0908909142,
+        "z": 2.993513
+      },
+      "rotation": {
+        "w": 0.0435924679,
+        "x": -0.6732407,
+        "y": 0.6777565,
+        "z": 0.292391628,
+        "eulerAngles": {
+          "x": 332.932678,
+          "y": 202.0717,
+          "z": 265.007629
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.174910426,
+        "y": -0.0908908844,
+        "z": 2.993513
+      },
+      "rotation": {
+        "w": 0.339411378,
+        "x": -0.58305496,
+        "y": 0.476083249,
+        "z": 0.5640847,
+        "eulerAngles": {
+          "x": 291.109558,
+          "y": 248.291168,
+          "z": 208.5728
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 1,
+    "manipulationAmount": 1,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "26",
+    "taskTypes": 4,
+    "timeLimit": 30.0,
+    "distance": 2,
+    "actualDistance": 3.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.158825576,
+        "y": -0.03351392,
+        "z": 2.99560356
+      },
+      "rotation": {
+        "w": -0.158957958,
+        "x": 0.0269269869,
+        "y": -0.9442584,
+        "z": 0.287024945,
+        "eulerAngles": {
+          "x": 32.2416267,
+          "y": 158.087082,
+          "z": 350.328
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.158825576,
+        "y": -0.0335139036,
+        "z": 2.99560356
+      },
+      "rotation": {
+        "w": -0.323478,
+        "x": -0.0406955481,
+        "y": 0.814268231,
+        "z": 0.4802843,
+        "eulerAngles": {
+          "x": 310.901855,
+          "y": 239.798187,
+          "z": 324.84613
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "27",
+    "taskTypes": 4,
+    "timeLimit": 30.0,
+    "distance": 2,
+    "actualDistance": 3.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.07496476,
+        "y": 0.2841428,
+        "z": 2.98557472
+      },
+      "rotation": {
+        "w": -0.165725887,
+        "x": 0.487963885,
+        "y": -0.7769314,
+        "z": 0.361668169,
+        "eulerAngles": {
+          "x": 23.59357,
+          "y": 138.228363,
+          "z": 286.624
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.07496476,
+        "y": 0.284142852,
+        "z": 2.98557472
+      },
+      "rotation": {
+        "w": -0.0340800434,
+        "x": -0.413145542,
+        "y": 0.7874608,
+        "z": 0.456130147,
+        "eulerAngles": {
+          "x": 316.353333,
+          "y": 216.514786,
+          "z": 289.581177
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "28",
+    "taskTypes": 4,
+    "timeLimit": 30.0,
+    "distance": 2,
+    "actualDistance": 3.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.204132736,
+        "y": 0.228795052,
+        "z": 2.984291
+      },
+      "rotation": {
+        "w": 0.703533053,
+        "x": -0.358437181,
+        "y": 0.263590157,
+        "z": -0.554151833,
+        "eulerAngles": {
+          "x": 347.7483,
+          "y": 51.8177528,
+          "z": 277.578278
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.204132736,
+        "y": 0.228795052,
+        "z": 2.984291
+      },
+      "rotation": {
+        "w": 0.5192074,
+        "x": -0.342510253,
+        "y": -0.0423158556,
+        "z": 0.7818695,
+        "eulerAngles": {
+          "x": 343.17218,
+          "y": 322.737732,
+          "z": 118.536774
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 3,
+    "manipulationAmount": 3,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "29",
+    "taskTypes": 4,
+    "timeLimit": 30.0,
+    "distance": 2,
+    "actualDistance": 3.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.366506934,
+        "y": 0.0543659478,
+        "z": 2.97703266
+      },
+      "rotation": {
+        "w": -0.301176667,
+        "x": -0.276466668,
+        "y": -0.680339158,
+        "z": -0.6082742,
+        "eulerAngles": {
+          "x": 318.613525,
+          "y": 96.01275,
+          "z": 81.79015
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.366506934,
+        "y": 0.0543659925,
+        "z": 2.97703266
+      },
+      "rotation": {
+        "w": 0.398238152,
+        "x": -0.5351412,
+        "y": 0.2508896,
+        "z": -0.7014874,
+        "eulerAngles": {
+          "x": 355.7427,
+          "y": 72.41079,
+          "z": 236.050476
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 3,
+    "manipulationAmount": 3,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "30",
+    "taskTypes": 4,
+    "timeLimit": 30.0,
+    "distance": 2,
+    "actualDistance": 3.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.1581279,
+        "y": -0.229218692,
+        "z": 5.993534
+      },
+      "rotation": {
+        "w": 0.138979986,
+        "x": -0.95167625,
+        "y": -0.009656394,
+        "z": -0.2736854,
+        "eulerAngles": {
+          "x": 344.346832,
+          "y": 147.439087,
+          "z": 183.435
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.1581279,
+        "y": -0.229218721,
+        "z": 5.993534
+      },
+      "rotation": {
+        "w": 0.5961983,
+        "x": -0.7546858,
+        "y": 0.128480077,
+        "z": -0.2418466,
+        "eulerAngles": {
+          "x": 303.097778,
+          "y": 108.372276,
+          "z": 242.033646
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 1,
+    "manipulationAmount": 1,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "31",
+    "taskTypes": 4,
+    "timeLimit": 30.0,
+    "distance": 3,
+    "actualDistance": 6.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.152451187,
+        "y": 0.23979786,
+        "z": 5.993269
+      },
+      "rotation": {
+        "w": 0.7811198,
+        "x": -0.580016851,
+        "y": -0.158830464,
+        "z": 0.167944029,
+        "eulerAngles": {
+          "x": 301.4851,
+          "y": 301.992523,
+          "z": 58.77472
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.152451187,
+        "y": 0.239797831,
+        "z": 5.993269
+      },
+      "rotation": {
+        "w": 0.965465963,
+        "x": -0.120178863,
+        "y": -0.220938981,
+        "z": 0.06795938,
+        "eulerAngles": {
+          "x": 348.344452,
+          "y": 333.110016,
+          "z": 10.8483543
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 1,
+    "manipulationAmount": 1,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "32",
+    "taskTypes": 4,
+    "timeLimit": 30.0,
+    "distance": 3,
+    "actualDistance": 6.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.220338911,
+        "y": 0.197318643,
+        "z": 5.99270535
+      },
+      "rotation": {
+        "w": 0.182979956,
+        "x": -0.9557617,
+        "y": -0.162951082,
+        "z": -0.16274178,
+        "eulerAngles": {
+          "x": 336.246155,
+          "y": 164.0544,
+          "z": 164.023361
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.220338911,
+        "y": 0.197318673,
+        "z": 5.99270535
+      },
+      "rotation": {
+        "w": 0.773240447,
+        "x": -0.5040497,
+        "y": 0.115960672,
+        "z": 0.3668601,
+        "eulerAngles": {
+          "x": 300.164551,
+          "y": 337.721039,
+          "z": 63.69256
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "33",
+    "taskTypes": 4,
+    "timeLimit": 30.0,
+    "distance": 3,
+    "actualDistance": 6.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.0155776851,
+        "y": 0.07266675,
+        "z": 5.99953938
+      },
+      "rotation": {
+        "w": 0.9854197,
+        "x": 0.168669388,
+        "y": -0.00733687263,
+        "z": -0.0210917629,
+        "eulerAngles": {
+          "x": 19.39694,
+          "y": 358.689362,
+          "z": 357.323669
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.0155776851,
+        "y": 0.0726667643,
+        "z": 5.99953938
+      },
+      "rotation": {
+        "w": 0.47227338,
+        "x": 0.398036718,
+        "y": 0.7729121,
+        "z": -0.145367116,
+        "eulerAngles": {
+          "x": 36.9183464,
+          "y": 129.789719,
+          "z": 36.71716
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "34",
+    "taskTypes": 4,
+    "timeLimit": 30.0,
+    "distance": 3,
+    "actualDistance": 6.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.278824151,
+        "y": -0.08107336,
+        "z": 5.99296951
+      },
+      "rotation": {
+        "w": 0.451162964,
+        "x": -0.4574249,
+        "y": -0.7431365,
+        "z": -0.186982557,
+        "eulerAngles": {
+          "x": 316.318146,
+          "y": 223.684,
+          "z": 44.9741821
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.278824151,
+        "y": -0.0810734,
+        "z": 5.99296951
+      },
+      "rotation": {
+        "w": 0.9308147,
+        "x": 0.350492954,
+        "y": -0.0975408554,
+        "z": 0.0349925868,
+        "eulerAngles": {
+          "x": 41.2476044,
+          "y": 347.942841,
+          "z": 359.753754
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 3,
+    "manipulationAmount": 3,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "35",
+    "taskTypes": 4,
+    "timeLimit": 30.0,
+    "distance": 3,
+    "actualDistance": 6.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.117808521,
+        "y": 0.32923007,
+        "z": 5.98980331
+      },
+      "rotation": {
+        "w": -0.2682703,
+        "x": 0.298352838,
+        "y": 0.8982401,
+        "z": -0.179391682,
+        "eulerAngles": {
+          "x": 9.334336,
+          "y": 216.647476,
+          "z": 39.8455162
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.117808521,
+        "y": 0.32923007,
+        "z": 5.98980331
+      },
+      "rotation": {
+        "w": 0.5347143,
+        "x": 0.6849963,
+        "y": -0.439432234,
+        "z": 0.227508262,
+        "eulerAngles": {
+          "x": 68.82849,
+          "y": 205.9884,
+          "z": 263.328278
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 3,
+    "manipulationAmount": 3,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "36",
+    "taskTypes": 4,
+    "timeLimit": 30.0,
+    "distance": 3,
+    "actualDistance": 6.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.146545887,
+        "y": 0.07971716,
+        "z": 0.576354
+      },
+      "rotation": {
+        "w": -0.13603279,
+        "x": -0.44918257,
+        "y": -0.07471174,
+        "z": -0.879856944,
+        "eulerAngles": {
+          "x": 359.4692,
+          "y": 54.17359,
+          "z": 162.15094
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.146545887,
+        "y": 0.07971716,
+        "z": 0.576354
+      },
+      "rotation": {
+        "w": -0.13603279,
+        "x": -0.44918257,
+        "y": -0.07471174,
+        "z": -0.879856944,
+        "eulerAngles": {
+          "x": 359.4692,
+          "y": 54.17359,
+          "z": 162.15094
+        }
+      },
+      "scale": {
+        "x": 0.278166741,
+        "y": 0.278166741,
+        "z": 0.278166741
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 1,
+    "manipulationAmount": 1,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "37",
+    "taskTypes": 8,
+    "timeLimit": 30.0,
+    "distance": 1,
+    "actualDistance": 0.6,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.01606527,
+        "y": -0.281977177,
+        "z": 0.5293541
+      },
+      "rotation": {
+        "w": -0.8559363,
+        "x": 0.0313863456,
+        "y": -0.461498439,
+        "z": -0.231100067,
+        "eulerAngles": {
+          "x": 344.512146,
+          "y": 53.5853729,
+          "z": 22.3621769
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.01606527,
+        "y": -0.281977177,
+        "z": 0.5293541
+      },
+      "rotation": {
+        "w": -0.8559363,
+        "x": 0.0313863456,
+        "y": -0.461498439,
+        "z": -0.231100067,
+        "eulerAngles": {
+          "x": 344.512146,
+          "y": 53.5853729,
+          "z": 22.3621769
+        }
+      },
+      "scale": {
+        "x": 0.2670509,
+        "y": 0.2670509,
+        "z": 0.2670509
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 1,
+    "manipulationAmount": 1,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "38",
+    "taskTypes": 8,
+    "timeLimit": 30.0,
+    "distance": 1,
+    "actualDistance": 0.6,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.190844059,
+        "y": 0.04293084,
+        "z": 0.567211151
+      },
+      "rotation": {
+        "w": -0.649223566,
+        "x": -0.173243091,
+        "y": -0.669413149,
+        "z": 0.316830546,
+        "eulerAngles": {
+          "x": 40.4758949,
+          "y": 86.70317,
+          "z": 346.355225
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.190844059,
+        "y": 0.04293084,
+        "z": 0.567211151
+      },
+      "rotation": {
+        "w": -0.649223566,
+        "x": -0.173243091,
+        "y": -0.669413149,
+        "z": 0.316830546,
+        "eulerAngles": {
+          "x": 40.4758949,
+          "y": 86.70317,
+          "z": 346.355225
+        }
+      },
+      "scale": {
+        "x": 0.319602221,
+        "y": 0.319602221,
+        "z": 0.319602221
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "39",
+    "taskTypes": 8,
+    "timeLimit": 30.0,
+    "distance": 1,
+    "actualDistance": 0.6,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.283631325,
+        "y": 0.0298745632,
+        "z": 0.5278835
+      },
+      "rotation": {
+        "w": -0.570310533,
+        "x": -0.03254693,
+        "y": -0.7937258,
+        "z": 0.209012121,
+        "eulerAngles": {
+          "x": 21.6490459,
+          "y": 106.380363,
+          "z": 348.409882
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.283631325,
+        "y": 0.0298745632,
+        "z": 0.5278835
+      },
+      "rotation": {
+        "w": -0.570310533,
+        "x": -0.03254693,
+        "y": -0.7937258,
+        "z": 0.209012121,
+        "eulerAngles": {
+          "x": 21.6490459,
+          "y": 106.380363,
+          "z": 348.409882
+        }
+      },
+      "scale": {
+        "x": 0.322765648,
+        "y": 0.322765648,
+        "z": 0.322765648
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "40",
+    "taskTypes": 8,
+    "timeLimit": 30.0,
+    "distance": 1,
+    "actualDistance": 0.6,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.007841781,
+        "y": -0.289150238,
+        "z": 0.5256853
+      },
+      "rotation": {
+        "w": 0.722826362,
+        "x": 0.605412841,
+        "y": 0.303804219,
+        "z": -0.136749387,
+        "eulerAngles": {
+          "x": 73.39683,
+          "y": 73.2485352,
+          "z": 36.54898
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.007841781,
+        "y": -0.289150238,
+        "z": 0.5256853
+      },
+      "rotation": {
+        "w": 0.722826362,
+        "x": 0.605412841,
+        "y": 0.303804219,
+        "z": -0.136749387,
+        "eulerAngles": {
+          "x": 73.39683,
+          "y": 73.2485352,
+          "z": 36.54898
+        }
+      },
+      "scale": {
+        "x": 0.371448666,
+        "y": 0.371448666,
+        "z": 0.371448666
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 3,
+    "manipulationAmount": 3,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "41",
+    "taskTypes": 8,
+    "timeLimit": 30.0,
+    "distance": 1,
+    "actualDistance": 0.6,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.06422782,
+        "y": -0.131487131,
+        "z": 0.5818939
+      },
+      "rotation": {
+        "w": 0.476700664,
+        "x": 0.56141746,
+        "y": 0.180632338,
+        "z": -0.6518734,
+        "eulerAngles": {
+          "x": 50.4217339,
+          "y": 298.536,
+          "z": 221.081146
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.06422782,
+        "y": -0.131487131,
+        "z": 0.5818939
+      },
+      "rotation": {
+        "w": 0.476700664,
+        "x": 0.56141746,
+        "y": 0.180632338,
+        "z": -0.6518734,
+        "eulerAngles": {
+          "x": 50.4217339,
+          "y": 298.536,
+          "z": 221.081146
+        }
+      },
+      "scale": {
+        "x": 0.379481435,
+        "y": 0.379481435,
+        "z": 0.379481435
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 3,
+    "manipulationAmount": 3,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "42",
+    "taskTypes": 8,
+    "timeLimit": 30.0,
+    "distance": 1,
+    "actualDistance": 0.6,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.03105484,
+        "y": -0.02115234,
+        "z": 2.99976444
+      },
+      "rotation": {
+        "w": 0.7742984,
+        "x": -0.115203276,
+        "y": -0.00209295377,
+        "z": 0.62224257,
+        "eulerAngles": {
+          "x": 349.874847,
+          "y": 351.43512,
+          "z": 78.33235
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.03105484,
+        "y": -0.0211523771,
+        "z": 2.99976444
+      },
+      "rotation": {
+        "w": 0.7742984,
+        "x": -0.115203276,
+        "y": -0.00209295377,
+        "z": 0.62224257,
+        "eulerAngles": {
+          "x": 349.874847,
+          "y": 351.43512,
+          "z": 78.33235
+        }
+      },
+      "scale": {
+        "x": 0.282383531,
+        "y": 0.282383531,
+        "z": 0.282383531
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 1,
+    "manipulationAmount": 1,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "43",
+    "taskTypes": 8,
+    "timeLimit": 30.0,
+    "distance": 2,
+    "actualDistance": 3.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.232278466,
+        "y": -0.246380925,
+        "z": 2.98083115
+      },
+      "rotation": {
+        "w": -0.3126274,
+        "x": -0.168608367,
+        "y": 0.8545504,
+        "z": 0.378918082,
+        "eulerAngles": {
+          "x": 327.167419,
+          "y": 231.9952,
+          "z": 321.324158
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.232278466,
+        "y": -0.246380925,
+        "z": 2.98083115
+      },
+      "rotation": {
+        "w": -0.3126274,
+        "x": -0.168608367,
+        "y": 0.8545504,
+        "z": 0.378918082,
+        "eulerAngles": {
+          "x": 327.167419,
+          "y": 231.9952,
+          "z": 321.324158
+        }
+      },
+      "scale": {
+        "x": 0.275758654,
+        "y": 0.275758654,
+        "z": 0.275758654
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 1,
+    "manipulationAmount": 1,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "44",
+    "taskTypes": 8,
+    "timeLimit": 30.0,
+    "distance": 2,
+    "actualDistance": 3.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.114792973,
+        "y": 0.1694842,
+        "z": 2.99300766
+      },
+      "rotation": {
+        "w": 0.672885537,
+        "x": 0.477257133,
+        "y": -0.5022867,
+        "z": 0.259150147,
+        "eulerAngles": {
+          "x": 64.5038452,
+          "y": 275.31424,
+          "z": 342.3263
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.114792973,
+        "y": 0.169484258,
+        "z": 2.99300766
+      },
+      "rotation": {
+        "w": 0.672885537,
+        "x": 0.477257133,
+        "y": -0.5022867,
+        "z": 0.259150147,
+        "eulerAngles": {
+          "x": 64.5038452,
+          "y": 275.31424,
+          "z": 342.3263
+        }
+      },
+      "scale": {
+        "x": 0.3366302,
+        "y": 0.3366302,
+        "z": 0.3366302
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "45",
+    "taskTypes": 8,
+    "timeLimit": 30.0,
+    "distance": 2,
+    "actualDistance": 3.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.0390464962,
+        "y": 0.3530227,
+        "z": 2.978898
+      },
+      "rotation": {
+        "w": -0.411146015,
+        "x": 0.06173361,
+        "y": 0.150506,
+        "z": 0.8969369,
+        "eulerAngles": {
+          "x": 341.2916,
+          "y": 359.212524,
+          "z": 229.382126
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.0390464962,
+        "y": 0.3530227,
+        "z": 2.978898
+      },
+      "rotation": {
+        "w": -0.411146015,
+        "x": 0.06173361,
+        "y": 0.150506,
+        "z": 0.8969369,
+        "eulerAngles": {
+          "x": 341.2916,
+          "y": 359.212524,
+          "z": 229.382126
+        }
+      },
+      "scale": {
+        "x": 0.3140064,
+        "y": 0.3140064,
+        "z": 0.3140064
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "46",
+    "taskTypes": 8,
+    "timeLimit": 30.0,
+    "distance": 2,
+    "actualDistance": 3.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.138394773,
+        "y": 0.195781469,
+        "z": 2.99040413
+      },
+      "rotation": {
+        "w": 0.4397038,
+        "x": 0.77164644,
+        "y": 0.419332683,
+        "z": 0.1881024,
+        "eulerAngles": {
+          "x": 31.3883972,
+          "y": 129.462082,
+          "z": 107.848137
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.138394773,
+        "y": 0.195781469,
+        "z": 2.99040413
+      },
+      "rotation": {
+        "w": 0.4397038,
+        "x": 0.77164644,
+        "y": 0.419332683,
+        "z": 0.1881024,
+        "eulerAngles": {
+          "x": 31.3883972,
+          "y": 129.462082,
+          "z": 107.848137
+        }
+      },
+      "scale": {
+        "x": 0.3994776,
+        "y": 0.3994776,
+        "z": 0.3994776
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 3,
+    "manipulationAmount": 3,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "47",
+    "taskTypes": 8,
+    "timeLimit": 30.0,
+    "distance": 2,
+    "actualDistance": 3.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.208913743,
+        "y": 0.08852482,
+        "z": 2.99140739
+      },
+      "rotation": {
+        "w": 0.355565518,
+        "x": 0.84649,
+        "y": -0.388094425,
+        "z": -0.08006601,
+        "eulerAngles": {
+          "x": 32.6713142,
+          "y": 209.267471,
+          "z": 238.013184
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.208913743,
+        "y": 0.08852482,
+        "z": 2.99140739
+      },
+      "rotation": {
+        "w": 0.355565518,
+        "x": 0.84649,
+        "y": -0.388094425,
+        "z": -0.08006601,
+        "eulerAngles": {
+          "x": 32.6713142,
+          "y": 209.267471,
+          "z": 238.013184
+        }
+      },
+      "scale": {
+        "x": 0.389090985,
+        "y": 0.389090985,
+        "z": 0.389090985
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 3,
+    "manipulationAmount": 3,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "48",
+    "taskTypes": 8,
+    "timeLimit": 30.0,
+    "distance": 2,
+    "actualDistance": 3.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.145749167,
+        "y": -0.250026762,
+        "z": 5.99301624
+      },
+      "rotation": {
+        "w": -0.347585261,
+        "x": -0.114259392,
+        "y": 0.59096086,
+        "z": -0.7189538,
+        "eulerAngles": {
+          "x": 68.30686,
+          "y": 318.1688,
+          "z": 99.32592
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.145749167,
+        "y": -0.250026822,
+        "z": 5.99301624
+      },
+      "rotation": {
+        "w": -0.347585261,
+        "x": -0.114259392,
+        "y": 0.59096086,
+        "z": -0.7189538,
+        "eulerAngles": {
+          "x": 68.30686,
+          "y": 318.1688,
+          "z": 99.32592
+        }
+      },
+      "scale": {
+        "x": 0.271000683,
+        "y": 0.271000683,
+        "z": 0.271000683
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 1,
+    "manipulationAmount": 1,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "49",
+    "taskTypes": 8,
+    "timeLimit": 30.0,
+    "distance": 3,
+    "actualDistance": 6.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.127815321,
+        "y": 0.0185022913,
+        "z": 5.9986105
+      },
+      "rotation": {
+        "w": 0.15182355,
+        "x": 0.257917076,
+        "y": -0.264540941,
+        "z": 0.916758657,
+        "eulerAngles": {
+          "x": 34.2882271,
+          "y": 28.3685455,
+          "z": 170.109741
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.127815321,
+        "y": 0.0185022354,
+        "z": 5.9986105
+      },
+      "rotation": {
+        "w": 0.15182355,
+        "x": 0.257917076,
+        "y": -0.264540941,
+        "z": 0.916758657,
+        "eulerAngles": {
+          "x": 34.2882271,
+          "y": 28.3685455,
+          "z": 170.109741
+        }
+      },
+      "scale": {
+        "x": 0.2870694,
+        "y": 0.2870694,
+        "z": 0.2870694
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 1,
+    "manipulationAmount": 1,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "50",
+    "taskTypes": 8,
+    "timeLimit": 30.0,
+    "distance": 3,
+    "actualDistance": 6.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.117388114,
+        "y": 0.03997516,
+        "z": 5.998719
+      },
+      "rotation": {
+        "w": -0.2654426,
+        "x": 0.08809303,
+        "y": -0.496945322,
+        "z": 0.8214775,
+        "eulerAngles": {
+          "x": 50.32619,
+          "y": 39.78802,
+          "z": 235.1105
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.117388114,
+        "y": 0.0399751663,
+        "z": 5.998719
+      },
+      "rotation": {
+        "w": -0.2654426,
+        "x": 0.08809303,
+        "y": -0.496945322,
+        "z": 0.8214775,
+        "eulerAngles": {
+          "x": 50.32619,
+          "y": 39.78802,
+          "z": 235.1105
+        }
+      },
+      "scale": {
+        "x": 0.328728944,
+        "y": 0.328728944,
+        "z": 0.328728944
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "51",
+    "taskTypes": 8,
+    "timeLimit": 30.0,
+    "distance": 3,
+    "actualDistance": 6.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.0240258537,
+        "y": 0.09122366,
+        "z": 5.999258
+      },
+      "rotation": {
+        "w": 0.5809733,
+        "x": 0.5053455,
+        "y": 0.5836494,
+        "z": 0.257777542,
+        "eulerAngles": {
+          "x": 16.6354427,
+          "y": 101.562126,
+          "z": 68.16594
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.0240258537,
+        "y": 0.0912236,
+        "z": 5.999258
+      },
+      "rotation": {
+        "w": 0.5809733,
+        "x": 0.5053455,
+        "y": 0.5836494,
+        "z": 0.257777542,
+        "eulerAngles": {
+          "x": 16.6354427,
+          "y": 101.562126,
+          "z": 68.16594
+        }
+      },
+      "scale": {
+        "x": 0.3322106,
+        "y": 0.3322106,
+        "z": 0.3322106
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "52",
+    "taskTypes": 8,
+    "timeLimit": 30.0,
+    "distance": 3,
+    "actualDistance": 6.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.171929717,
+        "y": -0.330756366,
+        "z": 5.98841
+      },
+      "rotation": {
+        "w": -0.00276440382,
+        "x": 0.269933045,
+        "y": 0.366313457,
+        "z": -0.8904734,
+        "eulerAngles": {
+          "x": 40.60892,
+          "y": 320.5127,
+          "z": 164.515335
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.171929717,
+        "y": -0.3307563,
+        "z": 5.98841
+      },
+      "rotation": {
+        "w": -0.00276440382,
+        "x": 0.269933045,
+        "y": 0.366313457,
+        "z": -0.8904734,
+        "eulerAngles": {
+          "x": 40.60892,
+          "y": 320.5127,
+          "z": 164.515335
+        }
+      },
+      "scale": {
+        "x": 0.3560159,
+        "y": 0.3560159,
+        "z": 0.3560159
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 3,
+    "manipulationAmount": 3,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "53",
+    "taskTypes": 8,
+    "timeLimit": 30.0,
+    "distance": 3,
+    "actualDistance": 6.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.07849884,
+        "y": 0.20410639,
+        "z": 5.99601269
+      },
+      "rotation": {
+        "w": 0.908238053,
+        "x": -0.382187247,
+        "y": -0.167352945,
+        "z": 0.0320887566,
+        "eulerAngles": {
+          "x": 316.882751,
+          "y": 333.2528,
+          "z": 14.7792559
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.07849884,
+        "y": 0.20410645,
+        "z": 5.99601269
+      },
+      "rotation": {
+        "w": 0.908238053,
+        "x": -0.382187247,
+        "y": -0.167352945,
+        "z": 0.0320887566,
+        "eulerAngles": {
+          "x": 316.882751,
+          "y": 333.2528,
+          "z": 14.7792559
+        }
+      },
+      "scale": {
+        "x": 0.391620129,
+        "y": 0.391620129,
+        "z": 0.391620129
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 3,
+    "manipulationAmount": 3,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "54",
+    "taskTypes": 8,
+    "timeLimit": 30.0,
+    "distance": 3,
+    "actualDistance": 6.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.245548248,
+        "y": -0.131188631,
+        "z": 0.5315027
+      },
+      "rotation": {
+        "w": 0.124099374,
+        "x": 0.908678,
+        "y": -0.3928277,
+        "z": -0.0677497238,
+        "eulerAngles": {
+          "x": 9.921853,
+          "y": 192.942581,
+          "z": 227.88652
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.087785095,
+        "y": -0.131188631,
+        "z": 0.5315027
+      },
+      "rotation": {
+        "w": 0.256222337,
+        "x": -0.8805944,
+        "y": 0.331309676,
+        "z": 0.221669972,
+        "eulerAngles": {
+          "x": 323.2633,
+          "y": 195.98,
+          "z": 215.8992
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 1,
+    "manipulationAmount": 1,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "55",
+    "taskTypes": 6,
+    "timeLimit": 30.0,
+    "distance": 1,
+    "actualDistance": 0.6,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.0499844551,
+        "y": -0.248743534,
+        "z": 0.543718338
+      },
+      "rotation": {
+        "w": -0.275360644,
+        "x": 0.6032549,
+        "y": -0.563137,
+        "z": 0.493088961,
+        "eulerAngles": {
+          "x": 12.8928194,
+          "y": 111.8047,
+          "z": 257.3119
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.2833489,
+        "y": -0.248743534,
+        "z": 0.543718338
+      },
+      "rotation": {
+        "w": 0.4930696,
+        "x": -0.4434213,
+        "y": 0.713049233,
+        "z": -0.227641955,
+        "eulerAngles": {
+          "x": 353.532745,
+          "y": 114.377686,
+          "z": 300.420044
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 1,
+    "manipulationAmount": 1,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "56",
+    "taskTypes": 6,
+    "timeLimit": 30.0,
+    "distance": 1,
+    "actualDistance": 0.6,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.09283519,
+        "y": 0.1513741,
+        "z": 0.573133469
+      },
+      "rotation": {
+        "w": -0.3420934,
+        "x": 0.00412713,
+        "y": -0.387479156,
+        "z": 0.8560461,
+        "eulerAngles": {
+          "x": 41.3438454,
+          "y": 21.2557831,
+          "z": 231.665054
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.427027822,
+        "y": -0.265983,
+        "z": 0.573133469
+      },
+      "rotation": {
+        "w": 0.0805342942,
+        "x": 0.5525878,
+        "y": -0.7178743,
+        "z": 0.415713429,
+        "eulerAngles": {
+          "x": 43.3036232,
+          "y": 151.807129,
+          "z": 273.4394
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "57",
+    "taskTypes": 6,
+    "timeLimit": 30.0,
+    "distance": 1,
+    "actualDistance": 0.6,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.326766,
+        "y": 0.0134720206,
+        "z": 0.5030403
+      },
+      "rotation": {
+        "w": 0.810676038,
+        "x": 0.4518784,
+        "y": 0.3643098,
+        "z": 0.07673803,
+        "eulerAngles": {
+          "x": 42.5895042,
+          "y": 63.70258,
+          "z": 38.03989
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.006414622,
+        "y": -0.5711814,
+        "z": 0.5030403
+      },
+      "rotation": {
+        "w": -0.08074482,
+        "x": 0.5793294,
+        "y": 0.7891861,
+        "z": -0.187197953,
+        "eulerAngles": {
+          "x": 11.6488113,
+          "y": 200.5843,
+          "z": 74.68601
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "58",
+    "taskTypes": 6,
+    "timeLimit": 30.0,
+    "distance": 1,
+    "actualDistance": 0.6,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.101167083,
+        "y": 0.190433025,
+        "z": 0.559905052
+      },
+      "rotation": {
+        "w": -0.5068446,
+        "x": -0.0859071,
+        "y": 0.635293245,
+        "z": -0.576308131,
+        "eulerAngles": {
+          "x": 55.01802,
+          "y": 288.092468,
+          "z": 55.9539337
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.4958437,
+        "y": -0.6032237,
+        "z": 0.676896632
+      },
+      "rotation": {
+        "w": 0.641263,
+        "x": 0.6940145,
+        "y": 0.235113412,
+        "z": 0.22770004,
+        "eulerAngles": {
+          "x": 51.5380135,
+          "y": 96.82061,
+          "z": 96.18441
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 3,
+    "manipulationAmount": 3,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "59",
+    "taskTypes": 6,
+    "timeLimit": 30.0,
+    "distance": 1,
+    "actualDistance": 0.6,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.283033848,
+        "y": 0.139693975,
+        "z": 0.5102644
+      },
+      "rotation": {
+        "w": 0.5431908,
+        "x": 0.582807362,
+        "y": 0.5983589,
+        "z": -0.08512306,
+        "eulerAngles": {
+          "x": 47.308857,
+          "y": 125.6717,
+          "z": 63.15611
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.512413263,
+        "y": -0.44427073,
+        "z": 0.348248661
+      },
+      "rotation": {
+        "w": 0.630281866,
+        "x": -0.5059937,
+        "y": -0.5439503,
+        "z": -0.225461975,
+        "eulerAngles": {
+          "x": 297.979248,
+          "y": 257.2146,
+          "z": 34.5787735
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 3,
+    "manipulationAmount": 3,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "60",
+    "taskTypes": 6,
+    "timeLimit": 30.0,
+    "distance": 1,
+    "actualDistance": 0.6,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.21103245,
+        "y": 0.0848149359,
+        "z": 2.99136543
+      },
+      "rotation": {
+        "w": 0.7076319,
+        "x": -0.322701216,
+        "y": 0.6124995,
+        "z": 0.141299,
+        "eulerAngles": {
+          "x": 320.964752,
+          "y": 86.94355,
+          "z": 345.435333
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.122300893,
+        "y": 0.0848149061,
+        "z": 2.99136543
+      },
+      "rotation": {
+        "w": -0.7376108,
+        "x": -0.2465953,
+        "y": -0.351588339,
+        "z": -0.521063,
+        "eulerAngles": {
+          "x": 359.850067,
+          "y": 50.8646164,
+          "z": 70.40501
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 1,
+    "manipulationAmount": 1,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "61",
+    "taskTypes": 6,
+    "timeLimit": 30.0,
+    "distance": 2,
+    "actualDistance": 3.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.17135489,
+        "y": 0.08866379,
+        "z": 2.99378777
+      },
+      "rotation": {
+        "w": -0.899074256,
+        "x": -0.37465328,
+        "y": 0.200772226,
+        "z": -0.104837433,
+        "eulerAngles": {
+          "x": 45.70709,
+          "y": 336.1411,
+          "z": 3.12536144
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.161978453,
+        "y": 0.08866382,
+        "z": 2.99378777
+      },
+      "rotation": {
+        "w": 0.507151,
+        "x": 0.8315633,
+        "y": -0.224049956,
+        "z": -0.03319551,
+        "eulerAngles": {
+          "x": 55.9532928,
+          "y": 210.299225,
+          "z": 226.526688
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 1,
+    "manipulationAmount": 1,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "62",
+    "taskTypes": 6,
+    "timeLimit": 30.0,
+    "distance": 2,
+    "actualDistance": 3.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.157481909,
+        "y": -0.282597065,
+        "z": 2.98250484
+      },
+      "rotation": {
+        "w": -0.150006384,
+        "x": 0.318379939,
+        "y": -0.684968352,
+        "z": 0.6379268,
+        "eulerAngles": {
+          "x": 51.1144333,
+          "y": 102.988579,
+          "z": 268.48175
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.176337719,
+        "y": 0.294472218,
+        "z": 2.98250484
+      },
+      "rotation": {
+        "w": 0.440384448,
+        "x": 0.694151759,
+        "y": -0.5582871,
+        "z": 0.111939296,
+        "eulerAngles": {
+          "x": 47.4236,
+          "y": 209.807526,
+          "z": 270.9524
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "63",
+    "taskTypes": 6,
+    "timeLimit": 30.0,
+    "distance": 2,
+    "actualDistance": 3.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.196428776,
+        "y": -0.160893261,
+        "z": 2.98923683
+      },
+      "rotation": {
+        "w": 0.180026531,
+        "x": 0.119857259,
+        "y": -0.376299769,
+        "z": 0.9009013,
+        "eulerAngles": {
+          "x": 46.1514,
+          "y": 6.670604,
+          "z": 160.243484
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.252761066,
+        "y": 0.331725121,
+        "z": 2.98923683
+      },
+      "rotation": {
+        "w": 0.192273378,
+        "x": 0.574142337,
+        "y": -0.751378655,
+        "z": 0.262339026,
+        "eulerAngles": {
+          "x": 37.9531174,
+          "y": 179.106232,
+          "z": 284.924438
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "64",
+    "taskTypes": 6,
+    "timeLimit": 30.0,
+    "distance": 2,
+    "actualDistance": 3.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.07206978,
+        "y": -0.274211347,
+        "z": 2.98657417
+      },
+      "rotation": {
+        "w": 0.349296868,
+        "x": 0.699373245,
+        "y": -0.0583384335,
+        "z": -0.62085855,
+        "eulerAngles": {
+          "x": 24.5909977,
+          "y": 270.9419,
+          "z": 214.522522
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.6506963,
+        "y": 0.3955797,
+        "z": 3.15683627
+      },
+      "rotation": {
+        "w": -0.0006406158,
+        "x": 0.187659144,
+        "y": -0.8116789,
+        "z": 0.5531374,
+        "eulerAngles": {
+          "x": 63.8573036,
+          "y": 151.73613,
+          "z": 316.131
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 3,
+    "manipulationAmount": 3,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "65",
+    "taskTypes": 6,
+    "timeLimit": 30.0,
+    "distance": 2,
+    "actualDistance": 3.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.369225979,
+        "y": 0.078098,
+        "z": 2.97616386
+      },
+      "rotation": {
+        "w": 0.8542337,
+        "x": 0.180141658,
+        "y": -0.278282851,
+        "z": -0.400490254,
+        "eulerAngles": {
+          "x": 4.868377,
+          "y": 321.5398,
+          "z": 308.063721
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.364744,
+        "y": -0.5949576,
+        "z": 3.0671823
+      },
+      "rotation": {
+        "w": 0.210310072,
+        "x": 0.327905685,
+        "y": 0.914990544,
+        "z": -0.105070651,
+        "eulerAngles": {
+          "x": 19.2809772,
+          "y": 160.443771,
+          "z": 36.0787926
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 3,
+    "manipulationAmount": 3,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "66",
+    "taskTypes": 6,
+    "timeLimit": 30.0,
+    "distance": 2,
+    "actualDistance": 3.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.132804438,
+        "y": -0.31869483,
+        "z": 5.990059
+      },
+      "rotation": {
+        "w": -0.128232256,
+        "x": 0.6497735,
+        "y": -0.66125536,
+        "z": 0.352267355,
+        "eulerAngles": {
+          "x": 17.4115715,
+          "y": 138.890259,
+          "z": 264.431122
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.2005289,
+        "y": -0.31869483,
+        "z": 5.990059
+      },
+      "rotation": {
+        "w": 0.427170932,
+        "x": -0.5061366,
+        "y": 0.7491294,
+        "z": 0.0124830306,
+        "eulerAngles": {
+          "x": 333.184662,
+          "y": 135.3342,
+          "z": 303.097168
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 1,
+    "manipulationAmount": 1,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "67",
+    "taskTypes": 6,
+    "timeLimit": 30.0,
+    "distance": 3,
+    "actualDistance": 6.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.364471972,
+        "y": -0.03835079,
+        "z": 5.988798
+      },
+      "rotation": {
+        "w": 0.287316024,
+        "x": 0.216121048,
+        "y": -0.901834846,
+        "z": 0.2396565,
+        "eulerAngles": {
+          "x": 33.8107262,
+          "y": 209.935791,
+          "z": 342.337524
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.0311386287,
+        "y": -0.03835082,
+        "z": 5.988798
+      },
+      "rotation": {
+        "w": -0.05964367,
+        "x": -0.354543746,
+        "y": 0.8191363,
+        "z": 0.446941853,
+        "eulerAngles": {
+          "x": 316.376221,
+          "y": 214.944916,
+          "z": 298.8315
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 1,
+    "manipulationAmount": 1,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "68",
+    "taskTypes": 6,
+    "timeLimit": 30.0,
+    "distance": 3,
+    "actualDistance": 6.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.0628093854,
+        "y": -0.09815599,
+        "z": 5.998867
+      },
+      "rotation": {
+        "w": -0.933939,
+        "x": -0.0299081933,
+        "y": 0.1181233,
+        "z": 0.3360215,
+        "eulerAngles": {
+          "x": 358.652344,
+          "y": 346.0659,
+          "z": 320.5883
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.421791643,
+        "y": 0.359671831,
+        "z": 5.998867
+      },
+      "rotation": {
+        "w": 0.483121872,
+        "x": 0.7110182,
+        "y": 0.42900598,
+        "z": -0.2774892,
+        "eulerAngles": {
+          "x": 67.68433,
+          "y": 176.992111,
+          "z": 115.772018
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "69",
+    "taskTypes": 6,
+    "timeLimit": 30.0,
+    "distance": 3,
+    "actualDistance": 6.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.14100796,
+        "y": -0.271939784,
+        "z": 5.992176
+      },
+      "rotation": {
+        "w": 0.45240736,
+        "x": -0.686705649,
+        "y": 0.335954428,
+        "z": -0.459235877,
+        "eulerAngles": {
+          "x": 341.773346,
+          "y": 100.240463,
+          "z": 247.405853
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.434778452,
+        "y": 0.06408775,
+        "z": 5.992176
+      },
+      "rotation": {
+        "w": 0.115012117,
+        "x": -0.6852875,
+        "y": 0.634796441,
+        "z": 0.337915182,
+        "eulerAngles": {
+          "x": 324.080536,
+          "y": 203.052963,
+          "z": 258.0553
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "70",
+    "taskTypes": 6,
+    "timeLimit": 30.0,
+    "distance": 3,
+    "actualDistance": 6.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.284299344,
+        "y": 0.125976473,
+        "z": 5.99193668
+      },
+      "rotation": {
+        "w": -0.664503455,
+        "x": 0.189835608,
+        "y": 0.235139847,
+        "z": -0.6834521,
+        "eulerAngles": {
+          "x": 3.963492,
+          "y": 325.015076,
+          "z": 90.36119
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.356717378,
+        "y": -0.6315131,
+        "z": 6.11565876
+      },
+      "rotation": {
+        "w": 0.3225785,
+        "x": 0.839166343,
+        "y": -0.43703422,
+        "z": -0.0272761583,
+        "eulerAngles": {
+          "x": 31.1682434,
+          "y": 202.521072,
+          "z": 241.3775
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 3,
+    "manipulationAmount": 3,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "71",
+    "taskTypes": 6,
+    "timeLimit": 30.0,
+    "distance": 3,
+    "actualDistance": 6.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.372258842,
+        "y": 0.1339362,
+        "z": 5.98694134
+      },
+      "rotation": {
+        "w": -0.3239191,
+        "x": 0.14196004,
+        "y": 0.3894601,
+        "z": -0.8504379,
+        "eulerAngles": {
+          "x": 34.782032,
+          "y": 323.045776,
+          "z": 126.348267
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.412454963,
+        "y": -0.462924957,
+        "z": 5.81966639
+      },
+      "rotation": {
+        "w": 0.407398582,
+        "x": -0.839634061,
+        "y": 0.259707063,
+        "z": -0.248179853,
+        "eulerAngles": {
+          "x": 326.2739,
+          "y": 130.928955,
+          "z": 230.13028
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 3,
+    "manipulationAmount": 3,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "72",
+    "taskTypes": 6,
+    "timeLimit": 30.0,
+    "distance": 3,
+    "actualDistance": 6.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.129355669,
+        "y": -0.0237644315,
+        "z": 0.585413933
+      },
+      "rotation": {
+        "w": 0.392653972,
+        "x": 0.5369733,
+        "y": -0.4616845,
+        "z": 0.586796343,
+        "eulerAngles": {
+          "x": 74.47611,
+          "y": 90.6392059,
+          "z": 187.516113
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.203977674,
+        "y": -0.0237644911,
+        "z": 0.585413933
+      },
+      "rotation": {
+        "w": 0.0136480406,
+        "x": 0.6650798,
+        "y": -0.714762449,
+        "z": 0.215864018,
+        "eulerAngles": {
+          "x": 19.0708485,
+          "y": 163.550827,
+          "z": 271.342529
+        }
+      },
+      "scale": {
+        "x": 0.255843937,
+        "y": 0.255843937,
+        "z": 0.255843937
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 1,
+    "manipulationAmount": 1,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "73",
+    "taskTypes": 14,
+    "timeLimit": 30.0,
+    "distance": 1,
+    "actualDistance": 0.6,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.124347925,
+        "y": -0.13092041,
+        "z": 0.5721741
+      },
+      "rotation": {
+        "w": 0.214558929,
+        "x": 0.77018857,
+        "y": 0.5614927,
+        "z": -0.213307753,
+        "eulerAngles": {
+          "x": 34.7532272,
+          "y": 186.122421,
+          "z": 109.731
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.208985418,
+        "y": -0.13092041,
+        "z": 0.5721741
+      },
+      "rotation": {
+        "w": 0.131039575,
+        "x": -0.788704336,
+        "y": -0.5990329,
+        "z": -0.0439747572,
+        "eulerAngles": {
+          "x": 344.966278,
+          "y": 185.2058,
+          "z": 104.878181
+        }
+      },
+      "scale": {
+        "x": 0.134314075,
+        "y": 0.134314075,
+        "z": 0.134314075
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 1,
+    "manipulationAmount": 1,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "74",
+    "taskTypes": 14,
+    "timeLimit": 30.0,
+    "distance": 1,
+    "actualDistance": 0.6,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.1989243,
+        "y": 0.01251097,
+        "z": 0.5659399
+      },
+      "rotation": {
+        "w": 0.393381119,
+        "x": -0.628343165,
+        "y": -0.281305015,
+        "z": -0.609346867,
+        "eulerAngles": {
+          "x": 303.156342,
+          "y": 84.53323,
+          "z": 193.308487
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.299986362,
+        "y": -0.429679751,
+        "z": 0.5659399
+      },
+      "rotation": {
+        "w": 0.78066504,
+        "x": -0.232107118,
+        "y": 0.377005726,
+        "z": -0.441083968,
+        "eulerAngles": {
+          "x": 358.291565,
+          "y": 52.53647,
+          "z": 300.222961
+        }
+      },
+      "scale": {
+        "x": 0.126443624,
+        "y": 0.126443624,
+        "z": 0.126443624
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "75",
+    "taskTypes": 14,
+    "timeLimit": 30.0,
+    "distance": 1,
+    "actualDistance": 0.6,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.2017014,
+        "y": 0.158041477,
+        "z": 0.54253006
+      },
+      "rotation": {
+        "w": -0.367008567,
+        "x": 0.610533,
+        "y": 0.5117338,
+        "z": -0.480294377,
+        "eulerAngles": {
+          "x": 2.48879671,
+          "y": 254.365585,
+          "z": 101.950218
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.134030819,
+        "y": -0.417917132,
+        "z": 0.54253006
+      },
+      "rotation": {
+        "w": -0.8714796,
+        "x": -0.294317126,
+        "y": 0.264999628,
+        "z": -0.289267957,
+        "eulerAngles": {
+          "x": 41.7817154,
+          "y": 336.9794,
+          "z": 27.8360653
+        }
+      },
+      "scale": {
+        "x": 0.118932232,
+        "y": 0.118932232,
+        "z": 0.118932232
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "76",
+    "taskTypes": 14,
+    "timeLimit": 30.0,
+    "distance": 1,
+    "actualDistance": 0.6,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.138211012,
+        "y": 0.294740677,
+        "z": 0.5040102
+      },
+      "rotation": {
+        "w": 0.7225354,
+        "x": -0.173874646,
+        "y": 0.642271161,
+        "z": -0.187611356,
+        "eulerAngles": {
+          "x": 359.411774,
+          "y": 83.42425,
+          "z": 330.364075
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.60415554,
+        "y": -0.338144779,
+        "z": 0.723891854
+      },
+      "rotation": {
+        "w": -0.24607344,
+        "x": 0.0281915963,
+        "y": 0.7078315,
+        "z": 0.661534369,
+        "eulerAngles": {
+          "x": 288.124268,
+          "y": 269.3295,
+          "z": 293.3219
+        }
+      },
+      "scale": {
+        "x": 0.382033318,
+        "y": 0.382033318,
+        "z": 0.382033318
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 3,
+    "manipulationAmount": 3,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "77",
+    "taskTypes": 14,
+    "timeLimit": 30.0,
+    "distance": 1,
+    "actualDistance": 0.6,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.16838932,
+        "y": 0.02097413,
+        "z": 0.5754976
+      },
+      "rotation": {
+        "w": 0.657913,
+        "x": -0.196804851,
+        "y": -0.000707075,
+        "z": 0.7269234,
+        "eulerAngles": {
+          "x": 345.052551,
+          "y": 342.716034,
+          "z": 97.99017
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.452544451,
+        "y": -0.745188057,
+        "z": 0.741137743
+      },
+      "rotation": {
+        "w": -0.0270685554,
+        "x": 0.655342758,
+        "y": -0.698883951,
+        "z": 0.2852266,
+        "eulerAngles": {
+          "x": 21.2969913,
+          "y": 153.7779,
+          "z": 268.6681
+        }
+      },
+      "scale": {
+        "x": 0.383514136,
+        "y": 0.383514136,
+        "z": 0.383514136
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 3,
+    "manipulationAmount": 3,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "78",
+    "taskTypes": 14,
+    "timeLimit": 30.0,
+    "distance": 1,
+    "actualDistance": 0.6,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.0956399143,
+        "y": -0.0956614,
+        "z": 2.9969492
+      },
+      "rotation": {
+        "w": 0.33547017,
+        "x": 0.799019635,
+        "y": 0.401441067,
+        "z": 0.2964329,
+        "eulerAngles": {
+          "x": 17.34315,
+          "y": 128.881561,
+          "z": 118.305122
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.237693429,
+        "y": -0.0956614,
+        "z": 2.9969492
+      },
+      "rotation": {
+        "w": 0.220266044,
+        "x": -0.8381262,
+        "y": -0.138027847,
+        "z": -0.479558,
+        "eulerAngles": {
+          "x": 329.893677,
+          "y": 120.803688,
+          "z": 178.66806
+        }
+      },
+      "scale": {
+        "x": 0.280219167,
+        "y": 0.280219167,
+        "z": 0.280219167
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 1,
+    "manipulationAmount": 1,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "79",
+    "taskTypes": 14,
+    "timeLimit": 30.0,
+    "distance": 2,
+    "actualDistance": 3.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.203829646,
+        "y": -0.197081745,
+        "z": 2.9865694
+      },
+      "rotation": {
+        "w": 0.7885149,
+        "x": -0.198218629,
+        "y": 0.5142717,
+        "z": -0.272906959,
+        "eulerAngles": {
+          "x": 358.171967,
+          "y": 66.8793945,
+          "z": 320.611023
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.1295037,
+        "y": -0.197081685,
+        "z": 2.9865694
+      },
+      "rotation": {
+        "w": 0.7219063,
+        "x": 0.3740289,
+        "y": 0.5660004,
+        "z": 0.136371374,
+        "eulerAngles": {
+          "x": 22.6844158,
+          "y": 85.05746,
+          "z": 42.2450676
+        }
+      },
+      "scale": {
+        "x": 0.2846573,
+        "y": 0.2846573,
+        "z": 0.2846573
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 1,
+    "manipulationAmount": 1,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "80",
+    "taskTypes": 14,
+    "timeLimit": 30.0,
+    "distance": 2,
+    "actualDistance": 3.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.225537956,
+        "y": 0.2656982,
+        "z": 2.97968769
+      },
+      "rotation": {
+        "w": -0.43885237,
+        "x": 0.133801818,
+        "y": -0.214514911,
+        "z": 0.8622581,
+        "eulerAngles": {
+          "x": 14.6252584,
+          "y": 25.661665,
+          "z": 237.2966
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.3269742,
+        "y": -0.107363224,
+        "z": 2.97968769
+      },
+      "rotation": {
+        "w": -0.155622125,
+        "x": 0.6061789,
+        "y": -0.671080947,
+        "z": 0.397466063,
+        "eulerAngles": {
+          "x": 20.1692314,
+          "y": 132.619583,
+          "z": 266.8938
+        }
+      },
+      "scale": {
+        "x": 0.122350007,
+        "y": 0.122350007,
+        "z": 0.122350007
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "81",
+    "taskTypes": 14,
+    "timeLimit": 30.0,
+    "distance": 2,
+    "actualDistance": 3.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.168326974,
+        "y": 0.02835016,
+        "z": 2.995142
+      },
+      "rotation": {
+        "w": 0.279122949,
+        "x": 0.685579658,
+        "y": 0.670900345,
+        "z": 0.0443129838,
+        "eulerAngles": {
+          "x": 18.860363,
+          "y": 152.613892,
+          "z": 86.60536
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.27729404,
+        "y": -0.467499018,
+        "z": 2.995142
+      },
+      "rotation": {
+        "w": 0.5328079,
+        "x": -0.6214853,
+        "y": -0.5743427,
+        "z": 0.00148126483,
+        "eulerAngles": {
+          "x": 318.657166,
+          "y": 234.85054,
+          "z": 72.36018
+        }
+      },
+      "scale": {
+        "x": 0.3188631,
+        "y": 0.3188631,
+        "z": 0.3188631
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "82",
+    "taskTypes": 14,
+    "timeLimit": 30.0,
+    "distance": 2,
+    "actualDistance": 3.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.008296577,
+        "y": -0.218743622,
+        "z": 2.99200058
+      },
+      "rotation": {
+        "w": 0.24299632,
+        "x": 0.4574812,
+        "y": 0.855127752,
+        "z": 0.0205007717,
+        "eulerAngles": {
+          "x": 10.7935619,
+          "y": 153.757843,
+          "z": 53.76931
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.77362293,
+        "y": 0.391210437,
+        "z": 3.12067842
+      },
+      "rotation": {
+        "w": -0.112313665,
+        "x": -0.573490739,
+        "y": 0.7707064,
+        "z": 0.2539794,
+        "eulerAngles": {
+          "x": 344.771729,
+          "y": 208.772461,
+          "z": 282.7657
+        }
+      },
+      "scale": {
+        "x": 0.111312948,
+        "y": 0.111312948,
+        "z": 0.111312948
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 3,
+    "manipulationAmount": 3,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "83",
+    "taskTypes": 14,
+    "timeLimit": 30.0,
+    "distance": 2,
+    "actualDistance": 3.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.1254226,
+        "y": 0.249242842,
+        "z": 2.98699665
+      },
+      "rotation": {
+        "w": 0.4852238,
+        "x": 0.7831107,
+        "y": 0.13476485,
+        "z": -0.3648753,
+        "eulerAngles": {
+          "x": 59.12765,
+          "y": 239.186386,
+          "z": 196.184052
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.5796433,
+        "y": -0.436846137,
+        "z": 2.80765438
+      },
+      "rotation": {
+        "w": -0.211344108,
+        "x": -0.249475479,
+        "y": -0.9240655,
+        "z": -0.197986647,
+        "eulerAngles": {
+          "x": 344.902954,
+          "y": 149.544342,
+          "z": 34.34839
+        }
+      },
+      "scale": {
+        "x": 0.3605059,
+        "y": 0.3605059,
+        "z": 0.3605059
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 3,
+    "manipulationAmount": 3,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "84",
+    "taskTypes": 14,
+    "timeLimit": 30.0,
+    "distance": 2,
+    "actualDistance": 3.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": -0.0071378164,
+        "y": -0.1778068,
+        "z": 5.99736
+      },
+      "rotation": {
+        "w": 0.604544044,
+        "x": -0.2441826,
+        "y": -0.162863314,
+        "z": 0.7405247,
+        "eulerAngles": {
+          "x": 356.902832,
+          "y": 325.9871,
+          "z": 102.492981
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.326195538,
+        "y": -0.177806735,
+        "z": 5.99736
+      },
+      "rotation": {
+        "w": -0.6499809,
+        "x": -0.0512189865,
+        "y": 0.476172537,
+        "z": -0.59005183,
+        "eulerAngles": {
+          "x": 38.9406967,
+          "y": 314.099365,
+          "z": 67.43772
+        }
+      },
+      "scale": {
+        "x": 0.2707277,
+        "y": 0.2707277,
+        "z": 0.2707277
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 1,
+    "manipulationAmount": 1,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "85",
+    "taskTypes": 14,
+    "timeLimit": 30.0,
+    "distance": 3,
+    "actualDistance": 6.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.3518638,
+        "y": 0.119970948,
+        "z": 5.988472
+      },
+      "rotation": {
+        "w": -0.909185767,
+        "x": 0.04891214,
+        "y": 0.336619765,
+        "z": -0.240157932,
+        "eulerAngles": {
+          "x": 4.17157269,
+          "y": 320.410583,
+          "z": 28.091013
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": 0.0185304582,
+        "y": 0.119970918,
+        "z": 5.988472
+      },
+      "rotation": {
+        "w": 0.8007647,
+        "x": 0.433343947,
+        "y": -0.412498116,
+        "z": 0.0288851857,
+        "eulerAngles": {
+          "x": 45.8767,
+          "y": 294.085144,
+          "z": 333.444672
+        }
+      },
+      "scale": {
+        "x": 0.261172622,
+        "y": 0.261172622,
+        "z": 0.261172622
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 1,
+    "manipulationAmount": 1,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "86",
+    "taskTypes": 14,
+    "timeLimit": 30.0,
+    "distance": 3,
+    "actualDistance": 6.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.05761858,
+        "y": -0.0401668772,
+        "z": 5.99959
+      },
+      "rotation": {
+        "w": 0.346936,
+        "x": -0.669212043,
+        "y": 0.6486413,
+        "z": -0.105143495,
+        "eulerAngles": {
+          "x": 340.8558,
+          "y": 141.289413,
+          "z": 274.99176
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.346462041,
+        "y": 0.490081668,
+        "z": 5.99959
+      },
+      "rotation": {
+        "w": -0.133420974,
+        "x": -0.488890082,
+        "y": 0.7079365,
+        "z": 0.4919462,
+        "eulerAngles": {
+          "x": 325.5229,
+          "y": 234.357147,
+          "z": 272.638672
+        }
+      },
+      "scale": {
+        "x": 0.3285869,
+        "y": 0.3285869,
+        "z": 0.3285869
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "87",
+    "taskTypes": 14,
+    "timeLimit": 30.0,
+    "distance": 3,
+    "actualDistance": 6.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.352085233,
+        "y": 0.0120828245,
+        "z": 5.989648
+      },
+      "rotation": {
+        "w": -0.8077537,
+        "x": -0.09694116,
+        "y": 0.5467916,
+        "z": 0.197877377,
+        "eulerAngles": {
+          "x": 356.572449,
+          "y": 292.5773,
+          "z": 334.757629
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.18685329,
+        "y": -0.38033247,
+        "z": 5.989648
+      },
+      "rotation": {
+        "w": 0.7085768,
+        "x": 0.4795803,
+        "y": 0.09234999,
+        "z": -0.50930655,
+        "eulerAngles": {
+          "x": 50.68803,
+          "y": 325.63266,
+          "z": 271.919373
+        }
+      },
+      "scale": {
+        "x": 0.332961231,
+        "y": 0.332961231,
+        "z": 0.332961231
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 2,
+    "manipulationAmount": 2,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "88",
+    "taskTypes": 14,
+    "timeLimit": 30.0,
+    "distance": 3,
+    "actualDistance": 6.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.0130909737,
+        "y": 0.09782615,
+        "z": 5.99918842
+      },
+      "rotation": {
+        "w": 0.8250892,
+        "x": 0.389964759,
+        "y": -0.3724454,
+        "z": 0.168640465,
+        "eulerAngles": {
+          "x": 50.275856,
+          "y": 310.8981,
+          "z": 358.906677
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.58299613,
+        "y": -0.6997154,
+        "z": 5.906411
+      },
+      "rotation": {
+        "w": 0.2759098,
+        "x": -0.8523732,
+        "y": -0.257759929,
+        "z": -0.361792415,
+        "eulerAngles": {
+          "x": 318.9386,
+          "y": 140.998459,
+          "z": 161.458221
+        }
+      },
+      "scale": {
+        "x": 0.377783537,
+        "y": 0.377783537,
+        "z": 0.377783537
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 3,
+    "manipulationAmount": 3,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "89",
+    "taskTypes": 14,
+    "timeLimit": 30.0,
+    "distance": 3,
+    "actualDistance": 6.0,
+    "radius": 0.4
+  },
+  {
+    "startObject": {
+      "prefabName": "Block",
+      "position": {
+        "x": 0.0340475477,
+        "y": -0.0328908376,
+        "z": 5.999813
+      },
+      "rotation": {
+        "w": 0.319876134,
+        "x": -0.3683229,
+        "y": 0.533540666,
+        "z": 0.6909066,
+        "eulerAngles": {
+          "x": 283.372,
+          "y": 313.550354,
+          "z": 167.773438
+        }
+      },
+      "scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "isTargetObject": false
+    },
+    "endObject": {
+      "prefabName": "Block Target",
+      "position": {
+        "x": -0.66457814,
+        "y": 0.6616205,
+        "z": 5.827835
+      },
+      "rotation": {
+        "w": -0.353012025,
+        "x": 0.4293323,
+        "y": -0.220541239,
+        "z": 0.8015097,
+        "eulerAngles": {
+          "x": 2.88967443,
+          "y": 57.6729965,
+          "z": 229.131882
+        }
+      },
+      "scale": {
+        "x": 0.360811472,
+        "y": 0.360811472,
+        "z": 0.360811472
+      },
+      "isTargetObject": true
+    },
+    "neededDoFs": 3,
+    "manipulationAmount": 3,
+    "PositioningTolerance": 0.1,
+    "RotatingTolerance": 20.0,
+    "ScalingTolerance": 0.1,
+    "id": "90",
+    "taskTypes": 14,
+    "timeLimit": 30.0,
+    "distance": 3,
+    "actualDistance": 6.0,
+    "radius": 0.4
+  }
+]

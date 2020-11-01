@@ -1,0 +1,107 @@
+{
+	"userId":0,
+	"primaryHand":"right",
+	"studyType":"manipulation",
+	"interactionTechniques": [
+		{
+			"name": "Scaled Homer + Scale",
+			"maxSupportedDistance": 3,
+			"supportedTaskTypes": 15
+		},
+		{
+			"name": "Simple Virtual Hand",
+			"maxSupportedDistance": 1,
+			"supportedTaskTypes": 7
+		},
+		{
+			"name": "World In Miniature + Scale",
+			"maxSupportedDistance": 3,
+			"supportedTaskTypes": 15
+		},
+		{
+			"name": "Go-Go + PRISM",
+			"maxSupportedDistance": 3,
+			"supportedTaskTypes": 7
+		},
+		{
+			"name": "Head Based Selection (Dwell)",
+			"maxSupportedDistance": 3,
+			"supportedTaskTypes": 1
+		},
+		{
+			"name": "Spindle",
+			"maxSupportedDistance": 1,
+			"supportedTaskTypes": 15
+		},
+		{
+			"name": "IntenSelect",
+			"maxSupportedDistance": 3,
+			"supportedTaskTypes": 1
+		},
+		{
+			"name": "Flashlight",
+			"maxSupportedDistance": 3,
+			"supportedTaskTypes": 1
+		},
+		{
+			"name": "Expand",
+			"maxSupportedDistance": 3,
+			"supportedTaskTypes": 1
+		},
+		{
+			"name": "Bimanual Fishing Reel",
+			"maxSupportedDistance": 3,
+			"supportedTaskTypes": 15
+		},
+		{
+			"name": "Crank Handle (Controller)",
+			"maxSupportedDistance": 3,
+			"supportedTaskTypes": 6
+		},
+		{
+			"name": "Scaled Homer",
+			"maxSupportedDistance": 3,
+			"supportedTaskTypes": 7
+		},
+		
+		
+		
+		
+		
+		{
+			"name": "Head Based Selection",
+			"maxSupportedDistance": 3,
+			"supportedTaskTypes": 1
+		},
+		{
+			"name": "Spindle + Wheel",
+			"maxSupportedDistance": 1,
+			"supportedTaskTypes": 15
+		},
+		{
+			"name": "Handle Bar",
+			"maxSupportedDistance": 1,
+			"supportedTaskTypes": 15
+		},
+		{
+			"name": "Virtual Hand",
+			"maxSupportedDistance": 1,
+			"supportedTaskTypes": 7
+		},
+		{
+			"name": "World In Miniature",
+			"maxSupportedDistance": 3,
+			"supportedTaskTypes": 7
+		},
+		{
+			"name": "Crank Handle",
+			"maxSupportedDistance": 3,
+			"supportedTaskTypes": 6
+		},
+		{
+			"name": "Ray-Casting",
+			"maxSupportedDistance": 3,
+			"supportedTaskTypes": 1
+		}
+	]
+}

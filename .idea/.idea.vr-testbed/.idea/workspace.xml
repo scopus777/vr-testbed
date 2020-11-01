@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="555cd0cd-9b2f-415c-bc28-c293894eba75" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Environment/TargetArea.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Environment/TargetArea.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Task Objects/Block.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Task Objects/Block.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Task Objects/Blue.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Task Objects/Blue.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Task Objects/Green.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Task Objects/Green.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Task Objects/Red.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Task Objects/Red.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Task Objects/Yellow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Task Objects/Yellow.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/WIM/Task Objects/Green.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/WIM/Task Objects/Green.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/Expand/Expand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/Expand/Expand.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/Flashlight/Flashlight.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/Flashlight/Flashlight.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/Go-Go+PRISM/GoGoTechnique.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/Go-Go+PRISM/GoGoTechnique.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/HeadBasedSelection/HeadBasedSelection.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/HeadBasedSelection/HeadBasedSelection.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/Input/SteamVR_ActivateActionSetOnLoad.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/Input/SteamVR_Action.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/mXRayShaderMouse/VisibleMask.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LeapMotion/Core/Scripts/LeapServiceProvider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2094A731-351D-475D-BA68-F5920DE30ED8/3e/faf826ed/Time.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/mXRayShaderMouse/MousePos2Shader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/Input/SteamVR_Action_In.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/Input/SteamVR_ActionSet_Manager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Editor/StandardShaderGUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/unity-bezier-curves/BezierLines.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/unity-bezier-curves/Demo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LeapMotion/Core/Scripts/HandModelManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Materials/Crank Handle/Diffuse ZWrite.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Samples/BuggyBuddy/Audio/AmbientSound.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/Input/SteamVR_Behaviour_Skeleton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/Input/SteamVR_Action_Boolean.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/Input/SteamVR_ActionSet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/Scripts/SteamVR.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LeapMotion/Core/Scripts/XR/XRHeightOffset.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MergeTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Hints/Scripts/ControllerButtonHints.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Json/JsonHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Util/LineDrawer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Util/HandsInitializer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/Scripts/SteamVR_Settings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Util/HelperUtil.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/Scripts/SteamVR_Fade.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/Scripts/SteamVR_RenderModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Domain/Task.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Domain/Configuration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LeapMotion/Core/Scripts/Hands/HandModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Editor/CreateCone.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LeapMotion/Core/Scripts/Hands/CapsuleHand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Editor/TaskGenerationWindow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LeapMotion/Core/Scripts/Hands/RiggedHand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Samples/Interactions_Example/LightingData.asset" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controller/TaskController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controller/MeasurementController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LeapMotion/Core/Scripts/Hands/HandEnableDisable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controller/StatusTextController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LeapMotion/Core/Scripts/Hands/RigidHand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controller/Singleton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LeapMotion/Core/Scripts/Hands/SkeletalHand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/Input/Editor/SteamVR_Input_Generator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Extensions/Vector3Extension.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Extensions/TransformExtension.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Extensions/MaterialExtension.cs.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Extensions/ListExtension.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Extensions/MeshExtension.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Extensions/HandExtension.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LeapMotion/Core/Scripts/DataStructures/Either.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Extensions/MaterialExtension.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Extensions/TweenExtension.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/Resources/SteamVR_Settings.asset" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Environment/StartAreaValidation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interaction/UpdatePoseActionOnStart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interaction/Takeable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/InteractionTechnique.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ShowPosition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LeapMotion/Core/Scripts/Utils/LeapUnityExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Teleport/Scripts/TeleportArc.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/HandInitializedInformer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/Expand/SelectionCone.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/Expand/Expand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/HandleBar/HandleBar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/Flashlight/FlashlightSelectionCone.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/Flashlight/Flashlight.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/CrankHandle/CircleHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/CrankHandle/CrankHandle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/Go-Go+PRISM/VelocityCalculation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/Go-Go+PRISM/GoGoTechnique.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Extensions/TaskTypeExtension.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/EvaluationEnvironment.unity" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/IntenSelect/IntenSelectCone.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/HideSecondaryHand.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/IntenSelect/IntenSelect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/Ray-Casting/RayCasting.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LeapMotion/Core/Plugins/LeapCSharp/Hand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Samples/Squishy/Squishy.prefab" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shader/CustomUnityStandardCore.cginc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/ScaledHomer/ScaledHomer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shader/CustomUnityStandardInput.cginc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/Spindle+Wheel/SelectionSphere.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LeapMotion/Core/Plugins/LeapCSharp/Vector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shader/CustomUnityStandardConfig.cginc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/Spindle+Wheel/SpindleAndWheel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/WorldInMiniature/HideController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shader/CustomUnityStandardCoreForward.cginc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/WorldInMiniature/WorldInMiniatureTechnique.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shader/CustomUnityStandardCoreForwardSimple.cginc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/HeadBasedSelection/HeadBasedSelection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shader/CustomStandard.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/BimanualFishingReal/BimanualFishingReel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LeapMotion/Core/Plugins/LeapCSharp/LeapTransform.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Core/Scripts/Hand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/Extras/SteamVR_ForceSteamVRMode.unity" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/VfxStarWide.prefab" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LeapMotion/Core/Examples/Capsule Hand (VR - Infrared Viewer).unity" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Core/Scripts/VelocityEstimator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Core/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LeapMotion/Core/Plugins/LeapCSharp/Controller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Samples/Interactions_Example.unity" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2094A731-351D-475D-BA68-F5920DE30ED8/dd/efcf3c52/LayerMask.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/Input/SteamVR_Input.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/b1/a1d3def5/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4379FCB5-FFCD-422A-BDAB-E963856EF063/33/fee097d2/TweenSettingsExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Core/Scripts/RenderModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4379FCB5-FFCD-422A-BDAB-E963856EF063/28/cbd204eb/ShortcutExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Core/Scripts/Throwable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/VirtualHand/VirtualHand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EF28F193-EAB6-4E49-B44B-3FB27EAB4F75/c6/b578fffd/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/Input/SteamVR_Behaviour_Pose.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/Input/SteamVR_Input_Sources.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2094A731-351D-475D-BA68-F5920DE30ED8/a9/6549db3e/Component.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Core/Scripts/Interactable.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Domain/Configuration.cs" />
+        <option value="$PROJECT_DIR$/Assets/unity-bezier-curves/Assets/BezierLines.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Util/LineDrawer.cs" />
+        <option value="$PROJECT_DIR$/Assets/unity-bezier-curves/BezierLines.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Extensions/VectorExtension.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MergeTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Materials/Crank Handle/Diffuse ZWrite.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Extensions/MaterialExtension.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/CrankHandle/CircleHelper.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/Flashlight/FlashlightSelectionCone.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Util/HelperUtil.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/HandInitializedInformer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Extensions/Vector3Extension.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/Go-Go+PRISM/VelocityCalculation.cs" />
+        <option value="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Core/Scripts/Hand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/Simple Virtual Hand/SimpleVirtualHand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Util/HandsInitializer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/WorldInMiniature/HideController.cs" />
+        <option value="$PROJECT_DIR$/Assets/SteamVR/Input/SteamVR_ActivateActionSetOnLoad.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interaction/CustomActivateActionSetOnLoad.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Editor/BoundsTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/WorldInMiniature/BoundsTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interaction/Takeable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/IntenSelect/IntenSelectCone.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Extensions/TaskTypeExtension.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controller/StatusTextController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/Spindle+Wheel/SelectionSphere.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/Expand/SelectionCone.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/BimanualFishingReal/BimanualFishingReel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/HandleBar/HandleBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/IntenSelect/IntenSelect.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/Spindle+Wheel/SpindleAndWheel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/Ray-Casting/RayCasting.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Domain/Task.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Editor/TaskGenerationWindow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/ScaledHomer/ScaledHomer.cs" />
+        <option value="$PROJECT_DIR$/Assets/SteamVR/Input/Editor/SteamVR_Input_Generator.cs" />
+        <option value="$PROJECT_DIR$/Assets/SteamVR/Input/SteamVR_Input.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Extensions/TransformExtension.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/WorldInMiniature/WorldInMiniatureTechnique.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ShowPosition.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controller/TaskController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Extensions/TweenExtension.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/CrankHandle/CrankHandle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/VirtualHand/VirtualHand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controller/MeasurementController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/InteractionTechnique.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/HeadBasedSelection/HeadBasedSelection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/Expand/Expand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/Flashlight/Flashlight.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InteractionTechniques/Go-Go+PRISM/GoGoTechnique.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.vr-testbed/.idea/indexLayout.xml" />
+        <option value="$PROJECT_DIR$/.idea/.idea.vr-testbed/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="262" />
+    <option name="y" value="-8" />
+    <option name="width" value="1323" />
+    <option name="height" value="1407" />
+  </component>
+  <component name="ProjectId" id="1UAKdYUHeEyhPQsTLXkk9s2ryPl" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="76120">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="76120" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="555cd0cd-9b2f-415c-bc28-c293894eba75" name="Default Changelist" comment="" />
+      <created>1566638698424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566638698424</updated>
+      <workItem from="1566638703398" duration="19310000" />
+      <workItem from="1566804974024" duration="21368000" />
+      <workItem from="1566888410609" duration="37509000" />
+      <workItem from="1567060606243" duration="20200000" />
+      <workItem from="1567091706092" duration="1226000" />
+      <workItem from="1567103171639" duration="20590000" />
+      <workItem from="1567230982466" duration="16141000" />
+      <workItem from="1567527571861" duration="6718000" />
+      <workItem from="1569067645851" duration="9020000" />
+      <workItem from="1569137718679" duration="20697000" />
+      <workItem from="1570263790526" duration="15104000" />
+      <workItem from="1570288315667" duration="9157000" />
+      <workItem from="1570348599491" duration="14938000" />
+      <workItem from="1570365914799" duration="17850000" />
+      <workItem from="1570470863418" duration="14000" />
+      <workItem from="1570635256522" duration="16338000" />
+      <workItem from="1570726548976" duration="717000" />
+      <workItem from="1571418927244" duration="9308000" />
+      <workItem from="1571468392999" duration="15720000" />
+      <workItem from="1571503909637" duration="13658000" />
+      <workItem from="1571562241060" duration="441000" />
+      <workItem from="1571562708842" duration="21976000" />
+      <workItem from="1571671774480" duration="14308000" />
+      <workItem from="1571845394531" duration="12151000" />
+      <workItem from="1572516461888" duration="22645000" />
+      <workItem from="1572689236869" duration="61409000" />
+      <workItem from="1574370186688" duration="287000" />
+      <workItem from="1574370596602" duration="1009000" />
+      <workItem from="1574411317991" duration="23224000" />
+      <workItem from="1574495074692" duration="51060000" />
+      <workItem from="1574706440103" duration="7188000" />
+      <workItem from="1574786118383" duration="4065000" />
+      <workItem from="1574794054365" duration="2701000" />
+      <workItem from="1575706521453" duration="31521000" />
+      <workItem from="1575794140201" duration="22130000" />
+      <workItem from="1576703297469" duration="2542000" />
+      <workItem from="1577606938053" duration="27457000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
